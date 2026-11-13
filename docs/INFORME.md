@@ -5,7 +5,7 @@ author: "Sebastián González Cacho"
 date: "Noviembre 2026"
 ---
 
-**Repositorio:** «COMPLETAR: https://github.com/SebastianGonzalezCacho/contentflow-mongodb»
+**Repositorio:** https://github.com/sebaagonzalezc/contentflow-mongodb
 
 # 1. Objetivos del proyecto
 
@@ -43,12 +43,16 @@ La configuración se hizo con **Atlas CLI** para que quedara como script reprodu
 | Proyecto | `ContentFlow` (dedicado) | Atlas permite un solo cluster Free por proyecto; aísla el encargo |
 | Nombre del cluster | `ContentFlowCluster` | Descriptivo; no se puede cambiar después |
 | Tier | Free (M0) | Requisito del encargo, sin costo |
-| Proveedor | AWS «COMPLETAR si cambió» | Disponible para M0 y región cercana |
-| Región | São Paulo `sa-east-1` «COMPLETAR si cambió» | Región más cercana a Santiago: menor latencia para la API |
-| Versión | MongoDB 8.0 | Versión que Atlas usa para clusters Free |
+| Proveedor | AWS | Disponible para M0 y región cercana |
+| Región | São Paulo `sa-east-1` | Región más cercana a Santiago: menor latencia para la API |
+| Versión | MongoDB 8.0.37 | Versión que Atlas usa para clusters Free |
 | Topología | Replica set de 3 nodos | Fijo en M0; da alta disponibilidad y permite `w: "majority"` |
 
-[CAPTURA 1: vista del cluster en Atlas (nombre, tier, proveedor, región, versión)]
+![Creación del cluster con Atlas CLI (contraseña oculta)](../evidencias/01_atlas_setup_cli.png)
+
+![ContentFlowCluster: FREE, 8.0.37, AWS São Paulo, replica set de 3 nodos](../evidencias/19_atlas_cluster.png)
+
+![Vista general del proyecto ContentFlow](../evidencias/18_atlas_overview.png)
 
 ## 2.2 Base de datos y colecciones
 
@@ -59,7 +63,7 @@ mantienen como texto (`user_1`, `pub_1`, etc.).
 Colecciones de apoyo creadas por el proceso de calidad: `auditoria_calidad` (registro de
 hallazgos) y `reacciones_descartadas` (duplicado retirado con su motivo).
 
-[CAPTURA 2: Data Explorer con la base `contentflow` y sus colecciones]
+![Data Explorer: base contentflow con sus 7 colecciones](../evidencias/20_atlas_colecciones.png)
 
 ## 2.3 Usuario de base de datos y Network Access
 
@@ -72,8 +76,11 @@ hallazgos) y `reacciones_descartadas` (duplicado retirado con su motivo).
   quedaría dependiendo solo de la contraseña. Su único uso razonable sería un despliegue con
   IP dinámica o desconocida (por ejemplo, un PaaS sin IP fija), y aun así sería temporal.
 
-[CAPTURA 3: Database Access con el rol de cf_app]  
-[CAPTURA 4: Network Access con la IP permitida]
+![Database Users: cf_app con readWrite@contentflow](../evidencias/22_database_users.png)
+
+![Rol verificado con atlas dbusers describe](../evidencias/04_rol_readWrite_json.png)
+
+![IP Access List: solo 190.22.5.45/32](../evidencias/23_ip_access_list.png)
 
 ## 2.4 Índices y justificación
 
@@ -95,7 +102,7 @@ optimización. Cada índice responde a una consulta del proyecto (`scripts/05_in
 | campanas | `{fecha_inicio: 1, fecha_fin: 1}` | Campañas vigentes en una fecha |
 | campanas | `{publicaciones_asociadas: 1}` (multikey) | Campañas en que participa una publicación |
 
-[CAPTURA 5: pestaña Indexes de alguna colección, o salida de 05_indices.js]
+![Salida de 05_indices.js en Atlas](../evidencias/08_indices.png)
 
 ## 2.5 Límites del tier M0 y su impacto
 
@@ -103,7 +110,7 @@ Fuente: documentación oficial *Atlas Free Cluster Limits*.
 
 | Límite M0 | Valor | Impacto en ContentFlow |
 |---|---|---|
-| Almacenamiento | 0,5 GB | El dataset (2.500 documentos) ocupa menos de 1 MB: margen amplio. Con miles de interacciones diarias habría que escalar |
+| Almacenamiento | 0,5 GB | El dataset ocupa 1,36 MB de 512 MB (0 % según Atlas): margen amplio. Con miles de interacciones diarias habría que escalar |
 | Conexiones | máx. 500 | La API usa un único `MongoClient` con pool, compartido por todas las peticiones |
 | Throughput | 100 operaciones/s | Atlas frena el exceso. La API pagina (`limit` ≤ 100) y valida referencias con `count_documents(limit=1)` |
 | Transferencia | 10 GB de entrada y 10 GB de salida cada 7 días | Suficiente para pruebas; se evitan respuestas masivas |
@@ -127,23 +134,31 @@ Fuente: documentación oficial *Atlas Free Cluster Limits*.
 - Los scripts de mongosh usan los valores por defecto del cluster: `local` para lectura y
   `majority` para escritura.
 
-## 2.7 Verificación de conectividad (cuatro herramientas)
+## 2.7 Verificación de conectividad
 
-1. **Atlas Data Explorer:** colecciones visibles con 500 documentos cada una. [CAPTURA 6]
-2. **MongoDB Compass:** conexión con el string `mongodb+srv` y el usuario `cf_app`. [CAPTURA 7]
-3. **mongosh:** `mongosh $env:MONGODB_URI` y `db.runCommand({ping: 1})` devuelve `{ ok: 1 }`. [CAPTURA 8]
-4. **Driver pymongo (API):** `GET /health` devuelve `{"status": "ok", "ping_ms": ...}`. [CAPTURA 9]
+1. **Atlas Data Explorer:** colecciones visibles con sus documentos (figura de la sección 2.2).
+2. **mongosh:** `db.runCommand({ping: 1})` devuelve `{ ok: 1 }`.
+3. **Driver pymongo (API):** al iniciar registra `Conexion a MongoDB OK`, y `GET /health` devuelve `{"status": "ok", "ping_ms": 55.2}`.
+4. **mongoimport y Atlas CLI:** la importación y la administración del cluster también se conectaron correctamente.
+
+![mongosh: ping { ok: 1 } contra Atlas](../evidencias/02_ping_y_rol_readWrite.png)
+
+![API: ping a Atlas al iniciar](../evidencias/12_api_arranque.png)
+
+![GET /health desde el navegador](../evidencias/13_health.png)
 
 ## 2.8 Problemas encontrados y soluciones
 
 | # | Problema | Causa | Solución |
 |---|---|---|---|
-| 1 | La plantilla de creación ofrecía solo tiers pagados (M10 preseleccionado, US$0,12/h) | El proyecto por defecto "Project 0" no ofrecía la opción Free (un cluster Free por proyecto) | Se creó un proyecto dedicado `ContentFlow` y se eligió el tier Free |
+| 1 | La plantilla de creación ofrecía solo tiers pagados (M10 preseleccionado, US$0,12/h) | "Project 0" ya tenía un cluster Free (DUOCDB, pausado, de otro ramo) y Atlas permite solo uno por proyecto | Se creó un proyecto dedicado `ContentFlow` y se eligió el tier Free |
 | 2 | Tras instalar Atlas CLI con winget, PowerShell no reconocía `atlas` | La sesión abierta no había recargado la variable PATH | Recargar PATH (`$env:Path = ...`) o abrir una terminal nueva |
-| 3 | `atlas setup` no detectaba la IP pública y respondía `session expired` | Expiró la sesión de Atlas CLI; sin sesión no consulta la IP en la API de Atlas | `atlas auth login` «COMPLETAR: y/o se terminó la configuración en la interfaz web» |
-| 4 | `campañas.json` no se encontraba por nombre exacto al procesarlo con un script | La ñ venía codificada en Unicode NFD (archivo creado en macOS) | Se renombró a `campanas.json`, igual que la colección |
-| 5 | Carpeta `__MACOSX` y archivos `._*` dentro del zip | Metadatos de macOS | Se ignoraron; no contienen datos |
-| «COMPLETAR» | | | |
+| 3 | `atlas setup` no detectaba la IP pública y respondía `session expired` | Expiró la sesión de Atlas CLI; sin sesión no consulta la IP en la API de Atlas | Nuevo `atlas auth login` y `atlas setup --projectId ...`; esta vez detectó la IP y creó el cluster |
+| 4 | `mongoimport` no se reconocía en PowerShell tras instalar MongoDB Database Tools con winget | El instalador no agrega `C:\Program Files\MongoDB\Tools\100\bin` al PATH | Se agregó esa carpeta al PATH de la sesión (`$env:Path += ";$bin"`) |
+| 5 | `campañas.json` no se encontraba por nombre exacto al procesarlo con un script | La ñ venía codificada en Unicode NFD (archivo creado en macOS) | Se renombró a `campanas.json`, igual que la colección |
+| 6 | Carpeta `__MACOSX` y archivos `._*` dentro del zip | Metadatos de macOS | Se ignoraron; no contienen datos |
+| 7 | `mongoimport` y `mongosh` fallaban con `bad auth : authentication failed` | La URI tenía el marcador `<password>` sin reemplazar y, tras cambiar la contraseña, Atlas tarda unos segundos en aplicar el cambio | Se fijó la contraseña con `atlas dbusers update`, se esperó y se verificó con `db.runCommand({ping:1})` → `{ ok: 1 }` |
+| 8 | En la consola, los acentos se veían mal (`Tecnolog├¡a`, `Educaci├│n`) | PowerShell 5.1 muestra la salida UTF-8 de mongosh con otra página de códigos. Los datos están bien: la consulta C3 filtra por `"Tecnología"` y devuelve resultados | `[Console]::OutputEncoding = [System.Text.Encoding]::UTF8` antes de ejecutar mongosh |
 
 # 3. Carga e inserción de datos de prueba
 
@@ -169,7 +184,9 @@ mongoimport --uri $env:MONGODB_URI --db contentflow --collection usuarios `
 | comentarios | 500 | 500 |
 | campanas | 500 | 500 |
 
-[CAPTURA 10: salida de 02_verificar_carga.js]
+![Script de importación (5 mongoimport)](../evidencias/03_script_importar.png)
+
+![Conteos 5 × 500 y fechas aún como string](../evidencias/05_verificar_carga_1.png)
 
 ## 3.3 Conversión de fechas a `Date`
 
@@ -192,7 +209,7 @@ db.publicaciones.updateMany(
 - **Supuesto:** al no traer zona horaria, `$toDate` interpreta las fechas como UTC. Los análisis
   de horario se informan en UTC.
 
-[CAPTURA 11: salida de 03_transformar_fechas.js (antes texto, después Date)]
+![Conversión string → Date: 500 por campo, 0 restantes](../evidencias/06_transformar_fechas.png)
 
 ## 3.4 Inserción y verificación de documentos de prueba
 
@@ -239,7 +256,19 @@ Con estos datos, casi ninguna campaña alcanza su meta. Hay dos lecturas posible
 están sobredimensionadas, o el dataset es solo una muestra de las interacciones. La métrica
 *compartidos* no se puede evaluar, porque el dataset no la registra.
 
-[CAPTURA 12-14: resultados de A1, A3 y A7 en mongosh o Compass]
+![C3: operadores lógicos y búsqueda compuesta](../evidencias/09_consultas_02.png)
+
+![A1: usuarios más activos](../evidencias/09_consultas_04.png)
+
+![A3: engagement por categoría y tipo](../evidencias/09_consultas_06.png)
+
+![A5: horarios ($hour, $dayOfWeek)](../evidencias/09_consultas_08.png)
+
+![A6: perfil de audiencia](../evidencias/09_consultas_09.png)
+
+![A7: top campañas por cumplimiento](../evidencias/09_consultas_10.png)
+
+![A7: resumen por objetivo de campaña](../evidencias/09_consultas_11.png)
 
 ## 4.3 Evaluación de eficiencia con `explain("executionStats")`
 
@@ -252,7 +281,7 @@ vuelve a medirla.
 | E2 Tecnología desde 2025-03-01, orden por fecha | `SORT ← COLLSCAN` | 500 | `FETCH ← IXSCAN` (`ix_categoria_fecha`) | 90 | 90 |
 | E3 usuario por correo | `COLLSCAN` | 500 | `EXPRESS_IXSCAN` (`ux_correo`) | 1 | 1 |
 
-Tiempo de ejecución en Atlas: «COMPLETAR ms antes/después con la salida real».
+Tiempo de ejecución medido en Atlas (`executionTimeMillis`): **0 ms sin índice y entre 0 y 1 ms con índice** (E1 y E2: 0→1 ms; E3: 0→0 ms en la segunda ejecución). Con 500 documentos, la diferencia está bajo la resolución de 1 ms y se ve afectada por la latencia de red y el tier compartido, así que el tiempo no es un indicador concluyente a esta escala.
 
 **Análisis.**
 
@@ -276,7 +305,9 @@ Tiempo de ejecución en Atlas: «COMPLETAR ms antes/después con la salida real�
 4. Revisar periódicamente en Atlas el *Performance Advisor* (en tiers superiores) y los planes
    de las consultas lentas.
 
-[CAPTURA 15: salida de 07_explain.js en Atlas]
+![explain E1 y E2 antes y después del índice](../evidencias/10_explain_1.png)
+
+![explain E3 y tabla comparativa](../evidencias/10_explain_2.png)
 
 # 5. Operaciones CRUD y calidad de datos
 
@@ -298,9 +329,15 @@ Tiempo de ejecución en Atlas: «COMPLETAR ms antes/después con la salida real�
 | V3 | validación previa | Comentario a `pub_99999` | rechazado, la referencia no existe |
 | D1 | `deleteOne` | El usuario quita su reacción | documento eliminado |
 | D2 | `deleteMany` + `$pull` | Borrado en cascada de la publicación | pub 1 → 0, comentarios 2 → 0, en camp_1 1 → 0 |
-| D3 | `deleteMany` | Baja de la usuaria de prueba | conteos finales iguales a los iniciales |
+| D3 | `deleteMany` | Baja de la usuaria de prueba | conteos finales iguales a los iniciales (reacciones = 499, porque el duplicado se movió a `reacciones_descartadas`) |
 
-[CAPTURA 16-17: salida de 08_crud.js]
+![CRUD: C1-C3 inserciones](../evidencias/11_crud_1.png)
+
+![CRUD: R1, U1-U3](../evidencias/11_crud_2.png)
+
+![CRUD: U3-U5](../evidencias/11_crud_3.png)
+
+![CRUD: V1-V3 rechazos y D1-D3 eliminaciones](../evidencias/11_crud_4.png)
 
 ## 5.2 Inconsistencias detectadas y criterio aplicado (`scripts/04_inconsistencias.js`)
 
@@ -312,7 +349,7 @@ muestra, acción y fecha). Así ningún dato se pierde sin evidencia.
 | `_id` duplicados (5 colecciones) | 0 | Sin acción |
 | Correos duplicados | 0 | Se crea índice único para prevenirlos |
 | Referencias inválidas (`usuario_id`, `publicacion_id`, publicaciones de campañas) | 0 | Sin acción; la API valida referencias antes de escribir |
-| Reacción anterior a la fecha de la publicación | 245 | **Marcar** `calidad.flags`; excluir de análisis temporales y de campañas |
+| Reacción anterior a la fecha de la publicación | 245 (244 tras retirar el duplicado `react_140`, que también estaba marcado) | **Marcar** `calidad.flags`; excluir de análisis temporales y de campañas |
 | Comentario anterior a la fecha de la publicación | 251 | Igual que el anterior |
 | Publicación anterior al registro de su autor | 48 | Marcar |
 | Reacción o comentario anterior al registro del usuario | 53 / 54 | Marcar |
@@ -328,8 +365,13 @@ interacciones y sesgaría los análisis. Marcarlos permite excluirlos donde impo
 (horarios, campañas) y usarlos donde no importa (conteos de actividad), y deja la decisión final
 documentada para el negocio.
 
-[CAPTURA 18: resumen de auditoria_calidad]  
-[CAPTURA 19: documento con calidad.flags en Compass]
+![Detección de inconsistencias](../evidencias/07_inconsistencias_1.png)
+
+![Duplicado y resumen de auditoria_calidad](../evidencias/07_inconsistencias_2.png)
+
+![Colección auditoria_calidad en Atlas (23 reglas)](../evidencias/25_auditoria_calidad.png)
+
+![Reacciones marcadas con calidad.flags en Atlas](../evidencias/24_reacciones_calidad_flags.png)
 
 # 6. Integración con aplicación externa (API REST)
 
@@ -346,7 +388,7 @@ documentada para el negocio.
 ## 6.2 Flujo de integración
 
 ```
-Cliente (Postman) --HTTP/JSON--> FastAPI
+Cliente (Swagger UI / Postman) --HTTP/JSON--> FastAPI
    1. middleware: asigna request_id y registra la petición en el log
    2. Pydantic valida el cuerpo (si falla: 422)
    3. se validan las referencias en MongoDB (si falla: 422 referencia_invalida)
@@ -369,13 +411,26 @@ Ver la tabla del `README.md`: 20 rutas, con GET, POST, PATCH y DELETE sobre `usu
 
 ## 6.5 Evidencia en tiempo real
 
-La colección `postman/ContentFlow.postman_collection.json` (24 requests y 29 aserciones,
-ejecutadas en orden) crea un usuario, una publicación, un comentario y una reacción; luego
-actualiza, consulta y borra.
+Las pruebas en vivo contra Atlas se hicieron con **Swagger UI** (`/docs`), el cliente API que
+genera FastAPI y que el enunciado admite como equivalente a Postman. Se creó un usuario (201) y
+el documento apareció de inmediato en Atlas Data Explorer. Al repetir la petición, el índice
+único devolvió 409. Además, la colección exportada `postman/ContentFlow.postman_collection.json` se ejecutó completa
+contra Atlas con **newman** (el ejecutor de colecciones de Postman por línea de comandos):
+**24 requests y 29 aserciones, 0 fallidas**, con un tiempo de respuesta promedio de 123 ms. La
+corrida crea, lee, actualiza y elimina en usuarios, publicaciones, comentarios y reacciones, y
+verifica los errores 404, 409 y 422.
 
-[CAPTURA 20: Postman POST /usuarios → 201]  
-[CAPTURA 21: el mismo documento visible en Atlas Data Explorer]  
-[CAPTURA 22: Postman Runner con todas las pruebas en verde]
+![Swagger UI (/docs) usado como cliente API](../evidencias/15_swagger_docs.png)
+
+![POST /usuarios → 201, _id user_2fdac79622](../evidencias/16_api_201_crear_usuario.png)
+
+![El mismo documento visible en Atlas Data Explorer](../evidencias/21_atlas_documento_api.png)
+
+![newman: salud, usuarios y publicaciones](../evidencias/26_newman_1.png)
+
+![newman: interacciones y reportes](../evidencias/26_newman_2.png)
+
+![newman: eliminación y resumen 24/24 requests, 29/29 aserciones](../evidencias/26_newman_3.png)
 
 # 7. Control de errores y validaciones
 
@@ -398,8 +453,9 @@ Formato uniforme de error:
 {"error": "clave_duplicada", "detalle": {"clave": {"correo": "..."}}, "request_id": "a1b2c3d4"}
 ```
 
-[CAPTURA 23: respuesta 409 o 422 en Postman]  
-[CAPTURA 24: archivo api/logs/api.log]
+![409 clave_duplicada con request_id y header x-request-id](../evidencias/17_api_409_duplicado.png)
+
+![Log de actividad: el 409 quedó registrado con rid=e2f86e4b, el mismo request_id que recibió el cliente](../evidencias/14_api_log.png)
 
 # 8. Conclusiones
 
