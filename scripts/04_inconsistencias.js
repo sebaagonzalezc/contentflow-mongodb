@@ -1,4 +1,3 @@
-// =============================================================================
 // 04_inconsistencias.js - Deteccion, documentacion y tratamiento (IE8)
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/04_inconsistencias.js
 // Requisito: haber ejecutado 03_transformar_fechas.js
@@ -11,7 +10,6 @@
 //   - El unico duplicado logico se MUEVE a `reacciones_descartadas` con el
 //     motivo, y luego se impone la regla con un indice unico (05_indices.js).
 // El script es idempotente: usa $addToSet y solo descarta si hay duplicados.
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 const ahora = new Date();
 

@@ -1,16 +1,13 @@
-// =============================================================================
 // 06_consultas.js - Consultas de negocio para la gerencia de ContentFlow (IE4, IE5)
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/06_consultas.js
 // Requisito: 03 (fechas Date) y 04 (calidad.flags) ejecutados.
 // Cada consulta indica el requerimiento de negocio que responde.
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 function titulo(n, req) { print(`\n========== ${n} ==========\nRequerimiento: ${req}`); }
 const show = (cur) => cur.forEach((d) => printjson(d));
 // Filtro reutilizable: excluir interacciones con fecha inconsistente
 const SIN_FLAG_TEMPORAL = { "calidad.flags": { $nin: ["fecha_antes_publicacion", "fecha_antes_registro_usuario"] } };
 
-// ---------------------------------------------------------------- LECTURAS --
 titulo("C1 - Filtro + proyeccion",
   "Perfil de audiencia: usuarias que acceden desde movil (para campana mobile-first).");
 show(db.usuarios.find(
@@ -41,7 +38,6 @@ const q4 = { fecha_publicacion: { $gte: ISODate("2025-03-01"), $lt: ISODate("202
 print("Cantidad:", db.publicaciones.countDocuments(q4));
 show(db.publicaciones.find(q4, { categoria: 1, tipo: 1, fecha_publicacion: 1 }).sort({ fecha_publicacion: 1 }).limit(3));
 
-// ------------------------------------------------------------ AGREGACIONES --
 titulo("A1 - Usuarios mas activos ($unionWith, $group, $sort, $lookup)",
   "Identificar a los usuarios mas activos (publicaciones + reacciones + comentarios).");
 show(db.publicaciones.aggregate([

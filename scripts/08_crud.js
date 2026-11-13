@@ -1,9 +1,7 @@
-// =============================================================================
 // 08_crud.js - Operaciones CRUD que simulan casos de negocio de ContentFlow (IE7)
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/08_crud.js
 // Cada paso muestra el estado ANTES y DESPUES. Al final limpia los documentos
 // de prueba (todos tienen prefijo "test_"), asi el script se puede repetir.
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 const estado = (etq, col, filtro, proy) => {
   print(`  ${etq}:`); const r = db.getCollection(col).find(filtro, proy || {}).toArray();

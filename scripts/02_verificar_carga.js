@@ -1,7 +1,5 @@
-// =============================================================================
 // 02_verificar_carga.js - Verifica cantidad de documentos y tipos de campos
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/02_verificar_carga.js
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 
 const esperado = { usuarios: 500, publicaciones: 500, reacciones: 500, comentarios: 500, campanas: 500 };

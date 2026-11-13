@@ -1,8 +1,6 @@
-# =============================================================================
 # 00_atlas_setup.ps1 - Configuracion de MongoDB Atlas con Atlas CLI (IE1)
 # Registro reproducible de los comandos usados. NO contiene contrasenas:
 # la contrasena del usuario la genera/solicita la CLI y se guarda en un gestor.
-# =============================================================================
 
 # 1. Instalar Atlas CLI y autenticarse (abre el navegador)
 winget install MongoDB.MongoDBAtlasCLI

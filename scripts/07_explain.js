@@ -1,11 +1,9 @@
-// =============================================================================
 // 07_explain.js - Eficiencia con explain("executionStats"), antes y despues (IE6)
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/07_explain.js
 // Para cada consulta: borra su indice (si existe), mide, crea el indice, mide.
 // Con 500 documentos el tiempo suele ser 0-2 ms en ambos casos; la metrica
 // relevante es la razon documentos examinados / devueltos y el tipo de plan
 // (COLLSCAN = recorre toda la coleccion; IXSCAN = usa indice).
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 
 function resumen(exp) {

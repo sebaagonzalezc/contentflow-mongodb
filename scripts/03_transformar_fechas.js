@@ -1,4 +1,3 @@
-// =============================================================================
 // 03_transformar_fechas.js - Convierte las fechas de texto ISO a tipo Date
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/03_transformar_fechas.js
 //
@@ -11,7 +10,6 @@
 //
 // Supuesto documentado: las fechas vienen sin zona horaria
 // ("2025-04-17T14:19:46"); $toDate las interpreta como UTC.
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 
 const campos = {

@@ -1,9 +1,7 @@
-// =============================================================================
 // 05_indices.js - Indices y su justificacion (IE2)
 // Uso: mongosh "$env:MONGODB_URI" --file scripts/05_indices.js
 // En el tier M0 no hay sharding: los indices son el mecanismo de optimizacion.
 // Cada indice responde a una consulta concreta de 06_consultas.js o de la API.
-// =============================================================================
 db = db.getSiblingDB("contentflow");
 
 const indices = [
