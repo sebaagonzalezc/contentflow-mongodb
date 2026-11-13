@@ -1,0 +1,4502 @@
+[
+  {
+    "_id": "user_1",
+    "nombre": "Amy Cain",
+    "correo": "reginald87@cobb-garcia.com",
+    "pais": "Senegal",
+    "genero": "Masculino",
+    "fecha_registro": "2025-04-17T14:19:46",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_2",
+    "nombre": "Rebecca Bowen",
+    "correo": "jdouglas@gmail.com",
+    "pais": "South Africa",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-25T11:06:07",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_3",
+    "nombre": "Brent May",
+    "correo": "fnolan@sherman.com",
+    "pais": "Portugal",
+    "genero": "Femenino",
+    "fecha_registro": "2024-06-26T00:14:30",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_4",
+    "nombre": "Jerry Scott",
+    "correo": "juarezearl@yahoo.com",
+    "pais": "Anguilla",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-04T07:05:37",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_5",
+    "nombre": "Kristy Reeves",
+    "correo": "ashleytorres@hotmail.com",
+    "pais": "Kazakhstan",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-20T13:46:42",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_6",
+    "nombre": "Patrick Neal",
+    "correo": "michele43@rosales.com",
+    "pais": "Cameroon",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-12T09:52:45",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_7",
+    "nombre": "Jackson Romero",
+    "correo": "kmontgomery@yahoo.com",
+    "pais": "Norway",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-14T16:42:31",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_8",
+    "nombre": "Kathryn Mills",
+    "correo": "hwong@yahoo.com",
+    "pais": "China",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-26T13:20:17",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_9",
+    "nombre": "Alexis Arroyo",
+    "correo": "kylewalker@yahoo.com",
+    "pais": "Netherlands",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-11T22:11:32",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_10",
+    "nombre": "Barbara Gonzalez",
+    "correo": "ohudson@gmail.com",
+    "pais": "Tajikistan",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-15T06:11:04",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_11",
+    "nombre": "Rachel Warren",
+    "correo": "michaeljohnson@garcia.net",
+    "pais": "Marshall Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-04T04:49:34",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_12",
+    "nombre": "Shelia Waller",
+    "correo": "pknight@scott.com",
+    "pais": "Portugal",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-03T02:52:45",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_13",
+    "nombre": "Crystal Love",
+    "correo": "krausejoseph@davis-lee.com",
+    "pais": "United Kingdom",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-27T13:50:41",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_14",
+    "nombre": "Amy Perez",
+    "correo": "ygarcia@gmail.com",
+    "pais": "Ghana",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-21T05:55:17",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_15",
+    "nombre": "Christina Wilson",
+    "correo": "igonzalez@lewis.org",
+    "pais": "Jersey",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-15T11:44:59",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_16",
+    "nombre": "Michelle Ramos",
+    "correo": "qgay@guzman-vasquez.com",
+    "pais": "Greenland",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-13T15:34:48",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_17",
+    "nombre": "Mr. Matthew Baker",
+    "correo": "joshua88@garrett-rodriguez.com",
+    "pais": "Libyan Arab Jamahiriya",
+    "genero": "Masculino",
+    "fecha_registro": "2023-07-21T16:26:40",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_18",
+    "nombre": "William Ruiz",
+    "correo": "cameronreynolds@davis-atkins.com",
+    "pais": "Northern Mariana Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-31T04:47:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_19",
+    "nombre": "Catherine Maxwell",
+    "correo": "kyletorres@kennedy.com",
+    "pais": "Montenegro",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-19T11:50:22",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_20",
+    "nombre": "Christopher Miranda",
+    "correo": "chelseamoore@zavala.com",
+    "pais": "Denmark",
+    "genero": "Otro",
+    "fecha_registro": "2024-02-05T18:56:01",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_21",
+    "nombre": "Scott Torres",
+    "correo": "matthew55@parker-elliott.biz",
+    "pais": "Albania",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-27T15:48:55",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_22",
+    "nombre": "Amy Ortiz",
+    "correo": "bwang@harris.com",
+    "pais": "Anguilla",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-22T14:35:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_23",
+    "nombre": "James Grant",
+    "correo": "christinaalexander@rodriguez-sanchez.com",
+    "pais": "Saint Kitts and Nevis",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-23T04:53:13",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_24",
+    "nombre": "Leslie Crane",
+    "correo": "twatts@wright-benitez.org",
+    "pais": "Honduras",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-31T16:41:57",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_25",
+    "nombre": "Mark Hill",
+    "correo": "hmclean@yahoo.com",
+    "pais": "Burkina Faso",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-30T19:10:58",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_26",
+    "nombre": "Erika Rowe",
+    "correo": "morganlawrence@hotmail.com",
+    "pais": "Cook Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-25T00:20:34",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_27",
+    "nombre": "David Armstrong",
+    "correo": "hannah21@hotmail.com",
+    "pais": "Rwanda",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-09T15:59:52",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_28",
+    "nombre": "Scott Stein",
+    "correo": "jackmcdonald@yahoo.com",
+    "pais": "Guyana",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-31T06:44:56",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_29",
+    "nombre": "Wesley Green",
+    "correo": "davidjenkins@shaffer-yates.net",
+    "pais": "Bahamas",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-17T12:12:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_30",
+    "nombre": "Keith Forbes",
+    "correo": "vcampbell@hotmail.com",
+    "pais": "Bangladesh",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-06T01:47:31",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_31",
+    "nombre": "Brandon Grant",
+    "correo": "laurenmathis@berry.org",
+    "pais": "Pakistan",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-11T21:21:13",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_32",
+    "nombre": "Pamela Jordan",
+    "correo": "vhayes@gmail.com",
+    "pais": "Pakistan",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-29T06:36:17",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_33",
+    "nombre": "Matthew Morgan",
+    "correo": "moraleskelly@hotmail.com",
+    "pais": "Switzerland",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-14T12:06:06",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_34",
+    "nombre": "Danny Simmons",
+    "correo": "breannasaunders@hotmail.com",
+    "pais": "Kuwait",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-05T07:10:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_35",
+    "nombre": "Patricia Andrews",
+    "correo": "jacobhernandez@yahoo.com",
+    "pais": "Cocos (Keeling) Islands",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-02T23:48:02",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_36",
+    "nombre": "Lance Kirk",
+    "correo": "stephanie55@barrett.com",
+    "pais": "Central African Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-06-10T04:10:25",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_37",
+    "nombre": "Crystal Gillespie PhD",
+    "correo": "natalieblackburn@flowers.com",
+    "pais": "Kenya",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-20T10:56:12",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_38",
+    "nombre": "Natalie James",
+    "correo": "nross@yahoo.com",
+    "pais": "Namibia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-04-09T06:19:23",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_39",
+    "nombre": "Wayne Hunter",
+    "correo": "katherinemartinez@yang-howard.com",
+    "pais": "Israel",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-11T23:06:00",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_40",
+    "nombre": "Brandon Hunter",
+    "correo": "william70@gmail.com",
+    "pais": "Hong Kong",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-31T15:37:57",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_41",
+    "nombre": "Tyrone Garcia",
+    "correo": "mary64@gmail.com",
+    "pais": "Reunion",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-20T05:14:35",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_42",
+    "nombre": "Rhonda Liu",
+    "correo": "jessica50@boone.org",
+    "pais": "Algeria",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-24T00:04:58",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_43",
+    "nombre": "Brenda Harrison",
+    "correo": "carlsonjason@guerrero.com",
+    "pais": "Italy",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-27T13:05:42",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_44",
+    "nombre": "Joseph Hernandez",
+    "correo": "natasha12@jimenez.biz",
+    "pais": "Nigeria",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-01T11:36:35",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_45",
+    "nombre": "Deborah Morris",
+    "correo": "anthony70@wiggins.biz",
+    "pais": "Serbia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-23T11:56:29",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_46",
+    "nombre": "Carolyn Garcia",
+    "correo": "christophermcneil@gmail.com",
+    "pais": "Lebanon",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-11T08:37:05",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_47",
+    "nombre": "Dr. Kimberly Taylor",
+    "correo": "thomas42@douglas-diaz.org",
+    "pais": "Paraguay",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-23T00:02:18",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_48",
+    "nombre": "Johnathan Guerra",
+    "correo": "jeffreyanderson@perez.com",
+    "pais": "Saint Barthelemy",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-25T07:02:58",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_49",
+    "nombre": "Lucas Wright",
+    "correo": "jessicaturner@hotmail.com",
+    "pais": "Kyrgyz Republic",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-16T18:01:09",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_50",
+    "nombre": "Kelly Huerta",
+    "correo": "markbrooks@gmail.com",
+    "pais": "Morocco",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-07T14:38:13",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_51",
+    "nombre": "Amanda Bullock",
+    "correo": "bauertiffany@gmail.com",
+    "pais": "Cambodia",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-20T13:19:35",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_52",
+    "nombre": "Robert Martin",
+    "correo": "armstrongtimothy@yahoo.com",
+    "pais": "Comoros",
+    "genero": "Femenino",
+    "fecha_registro": "2024-11-15T23:00:42",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_53",
+    "nombre": "Tricia Sullivan",
+    "correo": "ihowell@wilson-ramirez.net",
+    "pais": "Uzbekistan",
+    "genero": "Masculino",
+    "fecha_registro": "2024-04-03T15:37:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_54",
+    "nombre": "Steven Scott",
+    "correo": "qalvarado@yahoo.com",
+    "pais": "Serbia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-22T19:10:27",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_55",
+    "nombre": "Richard Simmons",
+    "correo": "codyhester@martinez.com",
+    "pais": "Brunei Darussalam",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-24T22:34:16",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_56",
+    "nombre": "Jesse Tran",
+    "correo": "raymondpugh@lee.com",
+    "pais": "Congo",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-05T06:45:00",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_57",
+    "nombre": "Kelly Chan",
+    "correo": "amber82@moore-becker.org",
+    "pais": "Czech Republic",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-01T14:03:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_58",
+    "nombre": "Michelle Fernandez",
+    "correo": "joshuahaley@yahoo.com",
+    "pais": "French Polynesia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-14T08:50:15",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_59",
+    "nombre": "Valerie English",
+    "correo": "derek40@gmail.com",
+    "pais": "El Salvador",
+    "genero": "Otro",
+    "fecha_registro": "2025-01-16T19:23:16",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_60",
+    "nombre": "Emily Leblanc",
+    "correo": "fischerdonald@carson-duran.com",
+    "pais": "India",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-18T08:53:15",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_61",
+    "nombre": "Jason Vargas",
+    "correo": "chad42@martinez-singh.com",
+    "pais": "Costa Rica",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-25T00:10:52",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_62",
+    "nombre": "Donald Murphy",
+    "correo": "alexandria97@guerrero.com",
+    "pais": "Mauritania",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-12T15:49:55",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_63",
+    "nombre": "Brittany Beard",
+    "correo": "stefanie06@yahoo.com",
+    "pais": "Bouvet Island (Bouvetoya)",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-14T13:11:08",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_64",
+    "nombre": "Kevin Walter",
+    "correo": "jeffrey11@hotmail.com",
+    "pais": "Netherlands Antilles",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-23T21:59:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_65",
+    "nombre": "Daisy Horn",
+    "correo": "ofisher@gmail.com",
+    "pais": "Tonga",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-05T15:46:46",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_66",
+    "nombre": "Nathaniel Hill",
+    "correo": "robert45@gmail.com",
+    "pais": "American Samoa",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-03T04:10:18",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_67",
+    "nombre": "Karla Willis",
+    "correo": "gwade@freeman.org",
+    "pais": "Malaysia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-22T16:15:49",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_68",
+    "nombre": "Janet Guzman",
+    "correo": "wilsonkathryn@carpenter-fletcher.org",
+    "pais": "Italy",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-09T20:56:25",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_69",
+    "nombre": "Patrick Reed",
+    "correo": "hberry@gmail.com",
+    "pais": "Wallis and Futuna",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-21T07:07:29",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_70",
+    "nombre": "Lori Strickland",
+    "correo": "ashleyjohnson@garcia-knapp.com",
+    "pais": "Saint Lucia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-05T07:01:35",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_71",
+    "nombre": "Dawn Cardenas",
+    "correo": "teresa34@yahoo.com",
+    "pais": "Slovenia",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-22T17:59:37",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_72",
+    "nombre": "Michael Walters",
+    "correo": "angelaboyer@morris.com",
+    "pais": "Tanzania",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-07T20:34:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_73",
+    "nombre": "Felicia Jensen",
+    "correo": "maria11@sullivan.biz",
+    "pais": "Cook Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-07T04:57:13",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_74",
+    "nombre": "Karla Rogers",
+    "correo": "kari25@gmail.com",
+    "pais": "Bouvet Island (Bouvetoya)",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-11T00:53:27",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_75",
+    "nombre": "Susan Graves",
+    "correo": "raymonddominguez@gmail.com",
+    "pais": "Bermuda",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-24T22:46:58",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_76",
+    "nombre": "Suzanne Alvarado",
+    "correo": "jenniferpatel@yahoo.com",
+    "pais": "Burkina Faso",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-10T20:21:02",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_77",
+    "nombre": "Tyler Olsen",
+    "correo": "nguyenjeffrey@gmail.com",
+    "pais": "Ecuador",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-14T06:10:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_78",
+    "nombre": "Willie Johnson",
+    "correo": "johnperez@cain.com",
+    "pais": "Togo",
+    "genero": "Femenino",
+    "fecha_registro": "2024-11-03T03:34:16",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_79",
+    "nombre": "Mr. Justin Murillo",
+    "correo": "hlopez@ross.biz",
+    "pais": "San Marino",
+    "genero": "Masculino",
+    "fecha_registro": "2024-02-04T17:31:22",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_80",
+    "nombre": "Vicki Lara",
+    "correo": "pwood@yahoo.com",
+    "pais": "Mauritania",
+    "genero": "Masculino",
+    "fecha_registro": "2024-04-18T23:17:55",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_81",
+    "nombre": "Michael Morris",
+    "correo": "colinlowery@erickson.org",
+    "pais": "Denmark",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-25T22:42:25",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_82",
+    "nombre": "Michael Bray",
+    "correo": "dadams@montgomery-crawford.biz",
+    "pais": "Bahrain",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-26T16:59:05",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_83",
+    "nombre": "Jerry Santos",
+    "correo": "jdillon@gmail.com",
+    "pais": "Pitcairn Islands",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-16T21:40:38",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_84",
+    "nombre": "Nathan Hudson",
+    "correo": "wjordan@andersen.info",
+    "pais": "Georgia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-06T19:22:36",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_85",
+    "nombre": "Elizabeth Hall",
+    "correo": "katiebaird@hotmail.com",
+    "pais": "Germany",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-16T17:28:56",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_86",
+    "nombre": "Leonard Joseph",
+    "correo": "hamptonchad@gmail.com",
+    "pais": "Malta",
+    "genero": "Masculino",
+    "fecha_registro": "2024-06-01T23:05:37",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_87",
+    "nombre": "Morgan Wright",
+    "correo": "anthonymcfarland@wilson.org",
+    "pais": "Reunion",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-29T22:51:38",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_88",
+    "nombre": "Jason Horton",
+    "correo": "isaac45@mann.info",
+    "pais": "Bermuda",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-06T23:31:13",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_89",
+    "nombre": "Curtis Bell",
+    "correo": "shannon18@smith-obrien.net",
+    "pais": "Bahamas",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-27T21:35:31",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_90",
+    "nombre": "Christopher Stuart",
+    "correo": "murphykevin@elliott.com",
+    "pais": "Norfolk Island",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-09T20:51:14",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_91",
+    "nombre": "Mr. William Davis DDS",
+    "correo": "audrey72@hernandez.com",
+    "pais": "Vietnam",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-06T04:21:16",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_92",
+    "nombre": "Rebecca Martinez",
+    "correo": "daniel29@hotmail.com",
+    "pais": "Chad",
+    "genero": "Masculino",
+    "fecha_registro": "2025-06-14T20:28:06",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_93",
+    "nombre": "Corey Moore",
+    "correo": "jmcfarland@yahoo.com",
+    "pais": "Slovenia",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-28T13:04:40",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_94",
+    "nombre": "Mary Jones",
+    "correo": "donald73@williams-brown.info",
+    "pais": "Sudan",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-01T20:49:22",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_95",
+    "nombre": "Michelle Combs",
+    "correo": "alvaradoluke@hart.net",
+    "pais": "Norway",
+    "genero": "Otro",
+    "fecha_registro": "2023-12-19T16:35:57",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_96",
+    "nombre": "Chad Gallagher",
+    "correo": "ypowell@gmail.com",
+    "pais": "Liechtenstein",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-04T03:15:15",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_97",
+    "nombre": "Frank Webb MD",
+    "correo": "kelli08@gmail.com",
+    "pais": "Comoros",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-23T21:31:44",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_98",
+    "nombre": "Kevin Mccullough",
+    "correo": "jocelyn80@rasmussen.com",
+    "pais": "Guinea",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-06T07:35:42",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_99",
+    "nombre": "Roger Russo",
+    "correo": "erin03@bryant.com",
+    "pais": "Rwanda",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-21T09:58:28",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_100",
+    "nombre": "Dalton Clark",
+    "correo": "weeksjamie@wilson.com",
+    "pais": "Christmas Island",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-14T11:30:37",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_101",
+    "nombre": "Jacqueline Monroe",
+    "correo": "donaldsanchez@scott.com",
+    "pais": "Costa Rica",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-29T02:45:19",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_102",
+    "nombre": "Susan Ortiz",
+    "correo": "ycolon@kirby-lopez.info",
+    "pais": "El Salvador",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-24T18:10:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_103",
+    "nombre": "Michael Williams",
+    "correo": "elizabethwalker@hotmail.com",
+    "pais": "Brazil",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-14T03:53:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_104",
+    "nombre": "Rick Jones",
+    "correo": "sherryscott@hotmail.com",
+    "pais": "Saint Barthelemy",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-06T11:03:04",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_105",
+    "nombre": "Joshua Mitchell",
+    "correo": "juarezralph@gmail.com",
+    "pais": "Zambia",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-21T19:29:15",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_106",
+    "nombre": "Kathleen Martinez",
+    "correo": "hmendoza@johnson.com",
+    "pais": "Belize",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-27T21:45:20",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_107",
+    "nombre": "Andrea Graham",
+    "correo": "crodgers@hotmail.com",
+    "pais": "Seychelles",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-17T12:12:59",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_108",
+    "nombre": "Kathy Villegas",
+    "correo": "bradley02@villarreal-king.com",
+    "pais": "Guernsey",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-09T11:55:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_109",
+    "nombre": "Mathew Myers",
+    "correo": "william32@lee.info",
+    "pais": "Bangladesh",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-01T17:29:05",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_110",
+    "nombre": "Joseph Hawkins",
+    "correo": "brian16@ferguson.com",
+    "pais": "Heard Island and McDonald Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-15T11:20:28",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_111",
+    "nombre": "Brian Hall",
+    "correo": "hartlisa@hotmail.com",
+    "pais": "British Indian Ocean Territory (Chagos Archipelago)",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-12T06:38:51",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_112",
+    "nombre": "Mark Elliott",
+    "correo": "banksrenee@newman.info",
+    "pais": "United States Minor Outlying Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-16T15:58:41",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_113",
+    "nombre": "John Wright",
+    "correo": "jcalhoun@yahoo.com",
+    "pais": "Martinique",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-29T16:59:01",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_114",
+    "nombre": "Charles Walsh",
+    "correo": "kkidd@singh-reynolds.com",
+    "pais": "Cambodia",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-18T16:14:03",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_115",
+    "nombre": "Michael Weaver",
+    "correo": "omartinez@clark-sullivan.biz",
+    "pais": "Kuwait",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-05T07:26:21",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_116",
+    "nombre": "Tristan Ford",
+    "correo": "elizabeth28@gmail.com",
+    "pais": "Ecuador",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-01T03:22:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_117",
+    "nombre": "Laura Gould",
+    "correo": "wkelley@yahoo.com",
+    "pais": "Holy See (Vatican City State)",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-27T19:59:04",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_118",
+    "nombre": "James Harrison",
+    "correo": "rebecca96@gmail.com",
+    "pais": "Cook Islands",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-01T07:26:51",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_119",
+    "nombre": "Steve Keller",
+    "correo": "sherryjohnson@gmail.com",
+    "pais": "Hungary",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-29T07:55:26",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_120",
+    "nombre": "Denise Reese",
+    "correo": "zandrews@hernandez.info",
+    "pais": "Ecuador",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-20T20:12:26",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_121",
+    "nombre": "Pamela Tucker",
+    "correo": "buchananchristopher@mora.com",
+    "pais": "Timor-Leste",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-24T11:41:12",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_122",
+    "nombre": "Steven Harris",
+    "correo": "kylejones@blankenship.info",
+    "pais": "Guadeloupe",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-13T03:04:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_123",
+    "nombre": "Eric Lang",
+    "correo": "frankwilson@ortiz.com",
+    "pais": "Portugal",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-05T06:43:14",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_124",
+    "nombre": "Vanessa Beck",
+    "correo": "cdavis@beard.biz",
+    "pais": "Lesotho",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-26T00:31:12",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_125",
+    "nombre": "Laurie Huerta",
+    "correo": "lrichards@yahoo.com",
+    "pais": "Uganda",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-01T01:06:31",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_126",
+    "nombre": "Theresa Knight",
+    "correo": "tannercasey@gmail.com",
+    "pais": "Niger",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-05T17:18:27",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_127",
+    "nombre": "Sydney Rodriguez",
+    "correo": "kelly15@terrell.org",
+    "pais": "Israel",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-24T22:27:48",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_128",
+    "nombre": "David Palmer",
+    "correo": "kflores@banks.com",
+    "pais": "Estonia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-06-29T07:38:06",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_129",
+    "nombre": "Gail Nelson DVM",
+    "correo": "cookanthony@hotmail.com",
+    "pais": "Algeria",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-06T05:39:33",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_130",
+    "nombre": "Elizabeth Gonzalez",
+    "correo": "sprice@hotmail.com",
+    "pais": "Faroe Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-01-07T21:17:33",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_131",
+    "nombre": "Jacob Hunt",
+    "correo": "izimmerman@yahoo.com",
+    "pais": "Saint Helena",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-04T19:18:22",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_132",
+    "nombre": "Katherine Adams",
+    "correo": "trujillorobin@hotmail.com",
+    "pais": "Ukraine",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-12T19:13:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_133",
+    "nombre": "Carl Gill",
+    "correo": "thompsoncalvin@solis.com",
+    "pais": "Saint Kitts and Nevis",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-27T01:37:40",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_134",
+    "nombre": "Glenda Stout",
+    "correo": "brandisheppard@welch-rivera.com",
+    "pais": "New Caledonia",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-19T08:47:44",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_135",
+    "nombre": "Charles Hardin",
+    "correo": "christopherbean@hamilton.com",
+    "pais": "Cote d'Ivoire",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-24T10:59:44",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_136",
+    "nombre": "Jasmine Garrett",
+    "correo": "troth@jacobs-lopez.com",
+    "pais": "Saint Martin",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-22T19:28:37",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_137",
+    "nombre": "Shannon Ramos",
+    "correo": "thompsonjames@humphrey.com",
+    "pais": "Reunion",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-20T22:40:23",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_138",
+    "nombre": "Angela Lopez",
+    "correo": "franciscoreid@hotmail.com",
+    "pais": "French Polynesia",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-25T20:43:56",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_139",
+    "nombre": "Martin Robinson",
+    "correo": "jill80@hotmail.com",
+    "pais": "Tuvalu",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-28T12:53:43",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_140",
+    "nombre": "Paul Brown",
+    "correo": "ucooper@harvey.com",
+    "pais": "Peru",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-01T09:01:57",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_141",
+    "nombre": "Jill Rowland",
+    "correo": "brianna59@chung.com",
+    "pais": "Korea",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-19T18:39:17",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_142",
+    "nombre": "Karen Porter",
+    "correo": "amy33@hotmail.com",
+    "pais": "Chile",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-18T18:55:46",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_143",
+    "nombre": "Jennifer Hobbs",
+    "correo": "dford@yahoo.com",
+    "pais": "Cape Verde",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-03T23:34:14",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_144",
+    "nombre": "Janice Herring",
+    "correo": "patrick26@smith-moody.com",
+    "pais": "Canada",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-19T04:06:12",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_145",
+    "nombre": "Claire Smith",
+    "correo": "josephgonzalez@yahoo.com",
+    "pais": "India",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-16T14:11:02",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_146",
+    "nombre": "Tyler Dunn",
+    "correo": "tommycummings@graham-york.info",
+    "pais": "Papua New Guinea",
+    "genero": "Femenino",
+    "fecha_registro": "2023-09-01T00:58:06",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_147",
+    "nombre": "Brian Benton",
+    "correo": "donald87@gmail.com",
+    "pais": "Israel",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-31T14:39:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_148",
+    "nombre": "Eric Moore",
+    "correo": "mcarr@gmail.com",
+    "pais": "Malta",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-20T13:53:48",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_149",
+    "nombre": "James Barker",
+    "correo": "annette71@west.com",
+    "pais": "Cote d'Ivoire",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-25T23:46:25",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_150",
+    "nombre": "Susan Orr",
+    "correo": "angela95@hotmail.com",
+    "pais": "Congo",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-23T08:52:53",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_151",
+    "nombre": "Rachael Armstrong",
+    "correo": "lisawright@harrison.com",
+    "pais": "Hungary",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-18T07:33:07",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_152",
+    "nombre": "Frank Moreno",
+    "correo": "carl63@yahoo.com",
+    "pais": "Rwanda",
+    "genero": "Masculino",
+    "fecha_registro": "2023-11-04T18:13:14",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_153",
+    "nombre": "Richard Wells",
+    "correo": "murphymallory@hoffman-bowers.com",
+    "pais": "Libyan Arab Jamahiriya",
+    "genero": "Otro",
+    "fecha_registro": "2024-03-16T15:28:29",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_154",
+    "nombre": "Kimberly Holloway",
+    "correo": "phillipsbruce@mills.com",
+    "pais": "Egypt",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-21T18:50:36",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_155",
+    "nombre": "Michael Farrell",
+    "correo": "james40@gmail.com",
+    "pais": "Pakistan",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-27T19:45:54",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_156",
+    "nombre": "Angela Marshall",
+    "correo": "jgarrett@wheeler.com",
+    "pais": "Vietnam",
+    "genero": "Masculino",
+    "fecha_registro": "2024-02-14T02:20:00",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_157",
+    "nombre": "Craig Obrien",
+    "correo": "brendamorris@gmail.com",
+    "pais": "British Virgin Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-26T08:11:53",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_158",
+    "nombre": "Kristen Wood",
+    "correo": "opierce@yahoo.com",
+    "pais": "Oman",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-24T04:35:35",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_159",
+    "nombre": "Gabriel Huff",
+    "correo": "mario90@brown.com",
+    "pais": "Vanuatu",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-07T08:36:06",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_160",
+    "nombre": "Brian Martin",
+    "correo": "fischerteresa@miller-cooper.com",
+    "pais": "Lithuania",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-22T17:55:51",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_161",
+    "nombre": "Kelly May",
+    "correo": "amydavis@gmail.com",
+    "pais": "Kiribati",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-17T04:03:19",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_162",
+    "nombre": "Thomas Green",
+    "correo": "newmanangela@day.com",
+    "pais": "Lesotho",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-18T13:15:02",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_163",
+    "nombre": "Peter Dodson",
+    "correo": "marcus60@cannon.biz",
+    "pais": "Mayotte",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-07T09:50:54",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_164",
+    "nombre": "Kevin Clark",
+    "correo": "baileychristopher@yahoo.com",
+    "pais": "Madagascar",
+    "genero": "Otro",
+    "fecha_registro": "2025-06-13T13:40:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_165",
+    "nombre": "Jennifer Hernandez",
+    "correo": "joseph58@moore-harris.org",
+    "pais": "Equatorial Guinea",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-01T10:13:11",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_166",
+    "nombre": "Steven Long",
+    "correo": "mjohnson@hotmail.com",
+    "pais": "Paraguay",
+    "genero": "Otro",
+    "fecha_registro": "2024-08-17T03:41:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_167",
+    "nombre": "Christine Rodriguez",
+    "correo": "newtonmorgan@gmail.com",
+    "pais": "Senegal",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-01T12:22:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_168",
+    "nombre": "Elizabeth Norris",
+    "correo": "michael03@zamora.com",
+    "pais": "Georgia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-26T05:22:01",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_169",
+    "nombre": "Christopher Cook",
+    "correo": "dcortez@yahoo.com",
+    "pais": "Netherlands Antilles",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-21T03:53:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_170",
+    "nombre": "John Hoffman",
+    "correo": "chrisrodriguez@gmail.com",
+    "pais": "Timor-Leste",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-09T20:33:45",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_171",
+    "nombre": "Shannon Arroyo",
+    "correo": "sean92@brown.com",
+    "pais": "Jamaica",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-11T19:58:27",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_172",
+    "nombre": "Angela Butler",
+    "correo": "kaylee14@baker.com",
+    "pais": "Uruguay",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-22T04:05:03",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_173",
+    "nombre": "Melanie Johnson",
+    "correo": "alexismiller@gmail.com",
+    "pais": "Korea",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-22T05:02:51",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_174",
+    "nombre": "Melissa Nelson",
+    "correo": "sbrown@lewis.biz",
+    "pais": "Antarctica (the territory South of 60 deg S)",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-14T11:41:16",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_175",
+    "nombre": "Ronald Gutierrez DVM",
+    "correo": "chungnancy@campbell.com",
+    "pais": "Paraguay",
+    "genero": "Masculino",
+    "fecha_registro": "2024-02-12T20:42:03",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_176",
+    "nombre": "Chelsea Norris",
+    "correo": "russomary@hansen-warner.com",
+    "pais": "Saint Barthelemy",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-05T15:19:49",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_177",
+    "nombre": "Donna Davis",
+    "correo": "ihoover@gmail.com",
+    "pais": "Holy See (Vatican City State)",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-09T04:10:20",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_178",
+    "nombre": "Molly Fernandez",
+    "correo": "richard96@yahoo.com",
+    "pais": "Lao People's Democratic Republic",
+    "genero": "Femenino",
+    "fecha_registro": "2024-04-11T11:39:03",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_179",
+    "nombre": "Brittany Chambers",
+    "correo": "bward@gmail.com",
+    "pais": "Netherlands Antilles",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-29T06:56:57",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_180",
+    "nombre": "Faith Howard",
+    "correo": "rmolina@gmail.com",
+    "pais": "Tuvalu",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-18T19:58:41",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_181",
+    "nombre": "Thomas Mcgrath",
+    "correo": "amber29@rowland.biz",
+    "pais": "Belgium",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-16T05:03:02",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_182",
+    "nombre": "Brian Mason",
+    "correo": "johnstonjonathan@ortega.com",
+    "pais": "Liechtenstein",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-15T10:31:31",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_183",
+    "nombre": "Russell Brooks",
+    "correo": "wrobinson@hotmail.com",
+    "pais": "Ireland",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-31T20:29:32",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_184",
+    "nombre": "Ashley Bowman",
+    "correo": "marywoodard@gmail.com",
+    "pais": "Saint Barthelemy",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-17T02:03:57",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_185",
+    "nombre": "Tracy Marsh",
+    "correo": "ruthneal@yahoo.com",
+    "pais": "Dominican Republic",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-22T16:05:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_186",
+    "nombre": "Roger Weaver",
+    "correo": "andrewjohnson@clark.com",
+    "pais": "Bangladesh",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-29T11:18:14",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_187",
+    "nombre": "Bryan Duffy",
+    "correo": "wolfekevin@yahoo.com",
+    "pais": "Holy See (Vatican City State)",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-25T12:42:48",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_188",
+    "nombre": "Manuel Gillespie",
+    "correo": "frowland@bell-scott.info",
+    "pais": "Tokelau",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-27T07:36:54",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_189",
+    "nombre": "Joshua Garcia",
+    "correo": "yvang@gmail.com",
+    "pais": "Libyan Arab Jamahiriya",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-25T04:39:40",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_190",
+    "nombre": "Karen Stephens",
+    "correo": "jenniferbaldwin@gibson.com",
+    "pais": "Dominican Republic",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-27T11:02:09",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_191",
+    "nombre": "Mrs. Emily Waters",
+    "correo": "christinadavis@hotmail.com",
+    "pais": "Brunei Darussalam",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-19T13:16:23",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_192",
+    "nombre": "Phyllis Walls",
+    "correo": "shawsteven@hotmail.com",
+    "pais": "Monaco",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-13T03:07:04",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_193",
+    "nombre": "Kimberly Ramsey",
+    "correo": "wolfetravis@yahoo.com",
+    "pais": "French Polynesia",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-09T14:22:23",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_194",
+    "nombre": "Dylan Rivera",
+    "correo": "tanyajones@tucker-smith.com",
+    "pais": "Sierra Leone",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-04T05:30:58",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_195",
+    "nombre": "Clayton Peterson",
+    "correo": "jenniferstokes@gmail.com",
+    "pais": "Bolivia",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-21T08:12:43",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_196",
+    "nombre": "Patrick Potts",
+    "correo": "ycrawford@jordan.com",
+    "pais": "Norfolk Island",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-10T18:14:29",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_197",
+    "nombre": "John Ramirez",
+    "correo": "brownjose@hotmail.com",
+    "pais": "Guinea-Bissau",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-19T06:36:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_198",
+    "nombre": "Thomas Knox",
+    "correo": "johnsonchristopher@ortega.net",
+    "pais": "Holy See (Vatican City State)",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-21T13:03:18",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_199",
+    "nombre": "Austin Tyler",
+    "correo": "cwilson@harris.com",
+    "pais": "San Marino",
+    "genero": "Masculino",
+    "fecha_registro": "2025-01-11T11:22:29",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_200",
+    "nombre": "Jacob Dixon",
+    "correo": "warrenjoseph@smith.com",
+    "pais": "Tokelau",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-23T18:03:24",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_201",
+    "nombre": "Chelsea Wells",
+    "correo": "coryhughes@hotmail.com",
+    "pais": "Nigeria",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-09T03:26:01",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_202",
+    "nombre": "Andrea Estrada",
+    "correo": "woodsveronica@knight.biz",
+    "pais": "Taiwan",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-13T13:25:15",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_203",
+    "nombre": "Darin Baker",
+    "correo": "uwilliams@johnson-powers.com",
+    "pais": "India",
+    "genero": "Masculino",
+    "fecha_registro": "2024-06-30T00:21:41",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_204",
+    "nombre": "Sharon Goodman",
+    "correo": "ymendez@oneal.com",
+    "pais": "Dominican Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-23T20:43:43",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_205",
+    "nombre": "Kathleen Jones",
+    "correo": "fjones@snow.com",
+    "pais": "Fiji",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-17T01:59:17",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_206",
+    "nombre": "Matthew Hatfield",
+    "correo": "mary95@yahoo.com",
+    "pais": "Timor-Leste",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-15T14:44:45",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_207",
+    "nombre": "Jasmin Pitts",
+    "correo": "srogers@hester-patel.org",
+    "pais": "Niue",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-03T12:08:07",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_208",
+    "nombre": "Derrick Nelson",
+    "correo": "lawrencebullock@gmail.com",
+    "pais": "Monaco",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-12T04:25:15",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_209",
+    "nombre": "Eric Petersen",
+    "correo": "joseph63@hotmail.com",
+    "pais": "Tuvalu",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-18T19:42:34",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_210",
+    "nombre": "Randy Phillips",
+    "correo": "james79@hotmail.com",
+    "pais": "China",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-15T15:55:14",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_211",
+    "nombre": "Sherri Little",
+    "correo": "isaac75@myers.com",
+    "pais": "Venezuela",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-29T22:46:17",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_212",
+    "nombre": "Glenn Scott",
+    "correo": "david68@smith-lopez.com",
+    "pais": "Vanuatu",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-04T03:27:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_213",
+    "nombre": "William Silva",
+    "correo": "dgonzalez@yahoo.com",
+    "pais": "Nigeria",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-30T21:00:21",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_214",
+    "nombre": "Karen Hughes",
+    "correo": "herbertward@williams.com",
+    "pais": "Botswana",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-14T15:33:40",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_215",
+    "nombre": "Bethany Davis",
+    "correo": "billkeller@gmail.com",
+    "pais": "Algeria",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-11T04:11:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_216",
+    "nombre": "Marcus Ramirez",
+    "correo": "jerrymontgomery@hotmail.com",
+    "pais": "Sao Tome and Principe",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-08T19:16:07",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_217",
+    "nombre": "Heather Young",
+    "correo": "kathryn26@weaver.com",
+    "pais": "Bermuda",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-02T07:38:38",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_218",
+    "nombre": "Veronica Nelson",
+    "correo": "davismegan@gmail.com",
+    "pais": "Dominican Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-07T12:46:39",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_219",
+    "nombre": "Stephanie Lowery",
+    "correo": "smithemily@yahoo.com",
+    "pais": "Morocco",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-15T07:12:15",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_220",
+    "nombre": "Jasmine Lewis",
+    "correo": "ortizsean@stevenson.org",
+    "pais": "Sao Tome and Principe",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-06T21:41:55",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_221",
+    "nombre": "Phillip Harris",
+    "correo": "hclarke@yahoo.com",
+    "pais": "Gibraltar",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-01T17:07:27",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_222",
+    "nombre": "Mr. Ryan Obrien MD",
+    "correo": "zjackson@robinson.biz",
+    "pais": "Falkland Islands (Malvinas)",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-25T20:16:53",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_223",
+    "nombre": "Stephanie Gray",
+    "correo": "parksanna@hotmail.com",
+    "pais": "Qatar",
+    "genero": "Femenino",
+    "fecha_registro": "2023-09-04T20:57:18",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_224",
+    "nombre": "Robert Price",
+    "correo": "parker76@hotmail.com",
+    "pais": "Kiribati",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-10T01:27:20",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_225",
+    "nombre": "David Perez",
+    "correo": "timothy23@hotmail.com",
+    "pais": "Oman",
+    "genero": "Otro",
+    "fecha_registro": "2024-08-21T07:41:50",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_226",
+    "nombre": "Rhonda Singleton",
+    "correo": "brandon31@hotmail.com",
+    "pais": "United States Virgin Islands",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-16T22:20:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_227",
+    "nombre": "Michael Williams",
+    "correo": "shawn42@ramirez-moon.com",
+    "pais": "Ireland",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-14T15:34:04",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_228",
+    "nombre": "Austin Wiggins",
+    "correo": "keithharrison@jacobson-young.com",
+    "pais": "Netherlands Antilles",
+    "genero": "Masculino",
+    "fecha_registro": "2025-01-20T01:27:29",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_229",
+    "nombre": "Raymond Adams",
+    "correo": "maxwellangela@cummings-hernandez.com",
+    "pais": "Ecuador",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-18T19:59:19",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_230",
+    "nombre": "Scott Miranda",
+    "correo": "longgary@moore-anderson.org",
+    "pais": "Syrian Arab Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-04-26T19:53:13",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_231",
+    "nombre": "Diana Sanchez",
+    "correo": "reevesfernando@webster.com",
+    "pais": "France",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-08T12:22:45",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_232",
+    "nombre": "Katherine Webster",
+    "correo": "hhayden@yahoo.com",
+    "pais": "Solomon Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-28T22:36:41",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_233",
+    "nombre": "Sara Sullivan",
+    "correo": "fjackson@gmail.com",
+    "pais": "Sri Lanka",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-13T21:48:34",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_234",
+    "nombre": "Kyle Richardson",
+    "correo": "munozrobert@yahoo.com",
+    "pais": "French Southern Territories",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-01T19:47:56",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_235",
+    "nombre": "John Christensen",
+    "correo": "whampton@cole.com",
+    "pais": "Pakistan",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-24T03:43:20",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_236",
+    "nombre": "David Smith",
+    "correo": "zking@marquez-watson.com",
+    "pais": "Kyrgyz Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-25T22:02:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_237",
+    "nombre": "Anthony Gould",
+    "correo": "nathaniel57@eaton-wiggins.com",
+    "pais": "Nepal",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-29T22:35:53",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_238",
+    "nombre": "Jose Woods",
+    "correo": "gomezjames@hotmail.com",
+    "pais": "Chad",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-25T05:03:20",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_239",
+    "nombre": "Brianna Dawson MD",
+    "correo": "crystalwatson@powell-lindsey.info",
+    "pais": "Guatemala",
+    "genero": "Femenino",
+    "fecha_registro": "2024-11-10T13:38:10",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_240",
+    "nombre": "Jacob Solis",
+    "correo": "bblake@johnson.org",
+    "pais": "Macedonia",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-06T21:18:53",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_241",
+    "nombre": "Mrs. Samantha Rivera DDS",
+    "correo": "douglasherman@gmail.com",
+    "pais": "New Zealand",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-09T19:10:23",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_242",
+    "nombre": "Daniel Williams",
+    "correo": "jameshudson@lloyd-ware.biz",
+    "pais": "Mayotte",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-29T22:43:25",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_243",
+    "nombre": "Thomas Smith",
+    "correo": "michelebaker@buchanan-robinson.com",
+    "pais": "Uzbekistan",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-20T01:20:46",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_244",
+    "nombre": "Bobby Stevens PhD",
+    "correo": "qsosa@hotmail.com",
+    "pais": "Micronesia",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-14T05:01:21",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_245",
+    "nombre": "Robin Rivera",
+    "correo": "elizabethconley@hotmail.com",
+    "pais": "Maldives",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-27T19:33:59",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_246",
+    "nombre": "Kirk Mosley",
+    "correo": "hamiltonjoseph@turner.com",
+    "pais": "Zambia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-18T04:54:27",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_247",
+    "nombre": "Scott Rodriguez",
+    "correo": "meganrobinson@marshall.com",
+    "pais": "Qatar",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-09T18:28:01",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_248",
+    "nombre": "Jennifer Ross",
+    "correo": "christopher29@yahoo.com",
+    "pais": "Yemen",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-12T11:58:33",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_249",
+    "nombre": "Erik Small",
+    "correo": "jbriggs@yahoo.com",
+    "pais": "Lebanon",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-09T09:17:43",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_250",
+    "nombre": "Jacob Parker",
+    "correo": "zreilly@hotmail.com",
+    "pais": "Croatia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-26T10:37:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_251",
+    "nombre": "David Sanchez",
+    "correo": "erik59@castaneda-garcia.com",
+    "pais": "South Africa",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-08T09:38:56",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_252",
+    "nombre": "Joshua Vasquez",
+    "correo": "victoriasmith@johnson.com",
+    "pais": "Philippines",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-30T04:36:50",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_253",
+    "nombre": "Melissa Wade",
+    "correo": "martinkyle@williams.com",
+    "pais": "Armenia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-04T19:30:59",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_254",
+    "nombre": "Thomas Clarke",
+    "correo": "lrodriguez@yahoo.com",
+    "pais": "New Zealand",
+    "genero": "Masculino",
+    "fecha_registro": "2025-04-26T14:57:54",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_255",
+    "nombre": "Sandra Mitchell",
+    "correo": "qobrien@schneider.net",
+    "pais": "Bhutan",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-05T04:48:34",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_256",
+    "nombre": "Melissa Johnson",
+    "correo": "heatherpatrick@yahoo.com",
+    "pais": "Zambia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-14T21:05:15",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_257",
+    "nombre": "Matthew Briggs",
+    "correo": "lauraboone@hotmail.com",
+    "pais": "Greece",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-27T03:50:22",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_258",
+    "nombre": "Charles Moore",
+    "correo": "matthewsdavid@bolton.com",
+    "pais": "Saint Kitts and Nevis",
+    "genero": "Femenino",
+    "fecha_registro": "2023-09-11T16:00:52",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_259",
+    "nombre": "Gary Flores",
+    "correo": "hgraham@barnett.com",
+    "pais": "Vietnam",
+    "genero": "Otro",
+    "fecha_registro": "2025-01-17T09:44:11",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_260",
+    "nombre": "John Johnson",
+    "correo": "elee@johnson.biz",
+    "pais": "Colombia",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-07T17:24:07",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_261",
+    "nombre": "Mr. James Fletcher MD",
+    "correo": "julie65@parrish.com",
+    "pais": "Zimbabwe",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-27T06:28:59",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_262",
+    "nombre": "John Mcneil",
+    "correo": "hensonjohn@simpson.com",
+    "pais": "Israel",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-15T11:41:47",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_263",
+    "nombre": "Lynn Dawson",
+    "correo": "aaron78@gmail.com",
+    "pais": "Croatia",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-08T10:15:15",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_264",
+    "nombre": "Matthew Doyle",
+    "correo": "lpreston@hotmail.com",
+    "pais": "Vanuatu",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-03T03:38:44",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_265",
+    "nombre": "Randy Simon",
+    "correo": "lmaynard@roberts.com",
+    "pais": "Grenada",
+    "genero": "Otro",
+    "fecha_registro": "2023-07-30T12:54:41",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_266",
+    "nombre": "Mark Conner",
+    "correo": "mhickman@hotmail.com",
+    "pais": "Djibouti",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-17T10:19:34",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_267",
+    "nombre": "Courtney Baker",
+    "correo": "elizabethriley@baker-schmidt.com",
+    "pais": "Cyprus",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-14T16:57:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_268",
+    "nombre": "James Jordan",
+    "correo": "amanda86@shaw.com",
+    "pais": "Seychelles",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-24T20:19:51",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_269",
+    "nombre": "Kathleen Carpenter",
+    "correo": "wyattsara@yahoo.com",
+    "pais": "Moldova",
+    "genero": "Masculino",
+    "fecha_registro": "2025-01-30T07:22:40",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_270",
+    "nombre": "Joshua Gonzalez",
+    "correo": "murphyjohn@yahoo.com",
+    "pais": "Angola",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-01T21:01:16",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_271",
+    "nombre": "Paul Scott",
+    "correo": "robert63@hotmail.com",
+    "pais": "Central African Republic",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-22T08:29:24",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_272",
+    "nombre": "Timothy Collins",
+    "correo": "mcgrathmorgan@mckay.com",
+    "pais": "Christmas Island",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-12T16:20:15",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_273",
+    "nombre": "Gail Mason",
+    "correo": "olsonchristina@gmail.com",
+    "pais": "Guinea-Bissau",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-20T10:58:48",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_274",
+    "nombre": "Christopher Drake",
+    "correo": "bartlettchristine@gmail.com",
+    "pais": "Bahrain",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-19T16:17:53",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_275",
+    "nombre": "Christopher Ochoa",
+    "correo": "writter@bell.biz",
+    "pais": "Bosnia and Herzegovina",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-03T15:39:03",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_276",
+    "nombre": "Robin Lewis",
+    "correo": "vayala@jones.info",
+    "pais": "Micronesia",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-06T08:26:03",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_277",
+    "nombre": "Frank Wood",
+    "correo": "chavezadam@smith-beck.com",
+    "pais": "Pakistan",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-04T17:15:24",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_278",
+    "nombre": "Ryan Montes",
+    "correo": "andersoncody@hotmail.com",
+    "pais": "Moldova",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-02T16:33:41",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_279",
+    "nombre": "Chad Snyder",
+    "correo": "weberantonio@hotmail.com",
+    "pais": "Ghana",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-23T17:25:35",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_280",
+    "nombre": "Rodney Carter",
+    "correo": "crosbyelizabeth@dominguez.com",
+    "pais": "Fiji",
+    "genero": "Masculino",
+    "fecha_registro": "2024-04-05T15:55:00",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_281",
+    "nombre": "Vicki Hester",
+    "correo": "jimenezjoanna@yahoo.com",
+    "pais": "Angola",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-05T22:23:00",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_282",
+    "nombre": "Mrs. Michelle Kane",
+    "correo": "daniel45@beasley-white.com",
+    "pais": "Mozambique",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-29T06:57:41",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_283",
+    "nombre": "Anthony Collins",
+    "correo": "rebecca41@goodwin-williams.biz",
+    "pais": "Bermuda",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-08T15:03:07",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_284",
+    "nombre": "Patrick Taylor",
+    "correo": "rodriguezthomas@pacheco-sullivan.com",
+    "pais": "Estonia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-16T23:19:46",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_285",
+    "nombre": "Kristina Bauer",
+    "correo": "gary91@burnett.com",
+    "pais": "Chile",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-08T17:41:31",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_286",
+    "nombre": "Sharon Hicks",
+    "correo": "maldonadonancy@hotmail.com",
+    "pais": "South Africa",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-02T12:22:02",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_287",
+    "nombre": "Chelsea Kelley",
+    "correo": "qclark@lee-rose.com",
+    "pais": "Burkina Faso",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-25T19:45:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_288",
+    "nombre": "Jennifer Lane",
+    "correo": "christinapreston@hotmail.com",
+    "pais": "Italy",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-30T16:29:05",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_289",
+    "nombre": "Kathleen Levine",
+    "correo": "julievazquez@hotmail.com",
+    "pais": "Colombia",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-09T05:19:54",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_290",
+    "nombre": "Barbara Lambert",
+    "correo": "halljohn@simon.biz",
+    "pais": "Burkina Faso",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-02T01:17:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_291",
+    "nombre": "Brian Smith",
+    "correo": "greeralexander@peterson.com",
+    "pais": "Cameroon",
+    "genero": "Otro",
+    "fecha_registro": "2025-01-29T05:08:56",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_292",
+    "nombre": "Barbara Wood",
+    "correo": "rkeller@yahoo.com",
+    "pais": "Kenya",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-12T16:24:05",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_293",
+    "nombre": "Mark Clark",
+    "correo": "mollyhodge@hotmail.com",
+    "pais": "Ecuador",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-31T03:36:00",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_294",
+    "nombre": "Donald Williams Jr.",
+    "correo": "bryansmall@gmail.com",
+    "pais": "San Marino",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-06T22:37:44",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_295",
+    "nombre": "Christina Rodriguez",
+    "correo": "justinthompson@gmail.com",
+    "pais": "Lebanon",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-17T21:22:26",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_296",
+    "nombre": "Ana Gibson",
+    "correo": "shannonbarker@yahoo.com",
+    "pais": "Taiwan",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-20T23:48:22",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_297",
+    "nombre": "Debra Castillo",
+    "correo": "andreyoung@yahoo.com",
+    "pais": "Hungary",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-02T15:02:23",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_298",
+    "nombre": "Ms. Maria Thomas",
+    "correo": "alexa14@hotmail.com",
+    "pais": "Malaysia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-28T13:59:35",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_299",
+    "nombre": "Jamie Brown",
+    "correo": "rachelking@todd.net",
+    "pais": "Togo",
+    "genero": "Femenino",
+    "fecha_registro": "2024-11-04T05:10:37",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_300",
+    "nombre": "Tammy Weeks",
+    "correo": "hernandezandrew@hotmail.com",
+    "pais": "Sierra Leone",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-18T19:52:59",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_301",
+    "nombre": "Glenn Castillo",
+    "correo": "oconnorjennifer@king-ballard.org",
+    "pais": "Cook Islands",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-16T01:30:43",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_302",
+    "nombre": "Ryan Guzman",
+    "correo": "jamescolleen@gmail.com",
+    "pais": "Greece",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-21T04:47:29",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_303",
+    "nombre": "Heather Blake",
+    "correo": "jperez@gmail.com",
+    "pais": "Portugal",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-13T20:41:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_304",
+    "nombre": "Steven Hall",
+    "correo": "stuartnichols@jones.info",
+    "pais": "Saint Barthelemy",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-30T00:58:51",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_305",
+    "nombre": "Daniel Wood",
+    "correo": "alexander96@esparza.org",
+    "pais": "Tuvalu",
+    "genero": "Femenino",
+    "fecha_registro": "2024-06-30T00:31:15",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_306",
+    "nombre": "Anna Mclean",
+    "correo": "trujillokylie@francis.info",
+    "pais": "Portugal",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-16T20:07:37",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_307",
+    "nombre": "Mary Dominguez",
+    "correo": "nmontoya@clay-garcia.net",
+    "pais": "Mozambique",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-10T17:57:36",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_308",
+    "nombre": "Diamond Simmons",
+    "correo": "karen82@gmail.com",
+    "pais": "Saint Vincent and the Grenadines",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-30T08:41:37",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_309",
+    "nombre": "Ms. Mary Lee",
+    "correo": "joanoconnor@wilcox.com",
+    "pais": "French Polynesia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-08T13:54:56",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_310",
+    "nombre": "Jerry Montgomery",
+    "correo": "swansonjennifer@burton-beard.com",
+    "pais": "Syrian Arab Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-31T01:04:59",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_311",
+    "nombre": "Michael Bass",
+    "correo": "kgray@johnson-thompson.biz",
+    "pais": "Botswana",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-20T12:14:57",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_312",
+    "nombre": "Christy Hernandez",
+    "correo": "kperez@reeves-reeves.net",
+    "pais": "Zambia",
+    "genero": "Otro",
+    "fecha_registro": "2025-06-15T09:12:18",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_313",
+    "nombre": "Stephanie Stark",
+    "correo": "mmoore@hotmail.com",
+    "pais": "Panama",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-29T06:04:23",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_314",
+    "nombre": "Jerry Jackson",
+    "correo": "leslie93@hotmail.com",
+    "pais": "South Georgia and the South Sandwich Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-07T02:31:33",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_315",
+    "nombre": "Christina Phillips",
+    "correo": "baxterdarrell@hotmail.com",
+    "pais": "Brunei Darussalam",
+    "genero": "Femenino",
+    "fecha_registro": "2025-06-15T07:39:34",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_316",
+    "nombre": "Omar Ferguson",
+    "correo": "pfoster@marquez.com",
+    "pais": "Martinique",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-26T21:01:54",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_317",
+    "nombre": "Cameron Odonnell",
+    "correo": "ambermiller@medina.com",
+    "pais": "Sweden",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-02T02:53:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_318",
+    "nombre": "John Massey",
+    "correo": "hollydavis@weber.biz",
+    "pais": "Saint Helena",
+    "genero": "Femenino",
+    "fecha_registro": "2024-11-19T22:51:26",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_319",
+    "nombre": "Nancy Morris",
+    "correo": "victoria50@cannon.com",
+    "pais": "Tokelau",
+    "genero": "Masculino",
+    "fecha_registro": "2025-04-05T10:56:40",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_320",
+    "nombre": "Angela Martin",
+    "correo": "wattstimothy@gonzales.com",
+    "pais": "Azerbaijan",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-19T06:22:47",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_321",
+    "nombre": "Tracy Johnson",
+    "correo": "lawrence18@roberts.net",
+    "pais": "Suriname",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-08T12:49:20",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_322",
+    "nombre": "Laura Woods",
+    "correo": "hernandezmadison@yahoo.com",
+    "pais": "Macao",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-10T11:26:31",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_323",
+    "nombre": "Emily Harrison",
+    "correo": "mjohnson@gmail.com",
+    "pais": "Afghanistan",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-11T20:13:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_324",
+    "nombre": "David Reed",
+    "correo": "wardzachary@hotmail.com",
+    "pais": "Canada",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-26T08:07:07",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_325",
+    "nombre": "Bryce Gutierrez",
+    "correo": "vickiwood@gmail.com",
+    "pais": "Haiti",
+    "genero": "Otro",
+    "fecha_registro": "2024-03-13T12:07:41",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_326",
+    "nombre": "Rachel Bennett",
+    "correo": "weberbrian@allen.org",
+    "pais": "Micronesia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-07T22:24:57",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_327",
+    "nombre": "Rachel Smith",
+    "correo": "calebadams@hebert.com",
+    "pais": "Syrian Arab Republic",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-30T04:19:14",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_328",
+    "nombre": "Justin Moreno",
+    "correo": "connie42@fry.net",
+    "pais": "Congo",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-05T07:01:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_329",
+    "nombre": "Chelsea Holland",
+    "correo": "john12@hotmail.com",
+    "pais": "Iran",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-08T11:20:31",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_330",
+    "nombre": "Molly Boyd",
+    "correo": "bevans@gmail.com",
+    "pais": "Turkmenistan",
+    "genero": "Femenino",
+    "fecha_registro": "2024-06-06T16:35:14",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_331",
+    "nombre": "Bianca Bowen",
+    "correo": "daltonyu@yahoo.com",
+    "pais": "Belize",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-09T10:36:38",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_332",
+    "nombre": "Samantha Carter",
+    "correo": "michaelchristensen@yahoo.com",
+    "pais": "Tonga",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-25T01:33:27",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_333",
+    "nombre": "Jamie Perez",
+    "correo": "amy24@gmail.com",
+    "pais": "Tonga",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-02T01:05:23",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_334",
+    "nombre": "Bradley Bennett",
+    "correo": "michelle89@hotmail.com",
+    "pais": "Macedonia",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-03T02:14:04",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_335",
+    "nombre": "Monica Richardson",
+    "correo": "martin27@decker.com",
+    "pais": "French Guiana",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-31T02:20:43",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_336",
+    "nombre": "Wendy Carter",
+    "correo": "jasonhubbard@lee-fox.org",
+    "pais": "Germany",
+    "genero": "Masculino",
+    "fecha_registro": "2025-06-01T20:13:08",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_337",
+    "nombre": "Jennifer Walker",
+    "correo": "davisjennifer@fox-griffith.com",
+    "pais": "Mauritius",
+    "genero": "Masculino",
+    "fecha_registro": "2023-08-23T03:53:46",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_338",
+    "nombre": "Christina Watkins",
+    "correo": "zrobinson@morris.com",
+    "pais": "Saint Kitts and Nevis",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-14T07:21:59",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_339",
+    "nombre": "Tamara Carr",
+    "correo": "victoria17@hotmail.com",
+    "pais": "Togo",
+    "genero": "Femenino",
+    "fecha_registro": "2024-05-27T21:39:54",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_340",
+    "nombre": "Michelle Warren",
+    "correo": "buckjason@osborn.org",
+    "pais": "Botswana",
+    "genero": "Femenino",
+    "fecha_registro": "2024-04-01T12:08:05",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_341",
+    "nombre": "Ashley Anderson",
+    "correo": "haleycook@warner.org",
+    "pais": "British Indian Ocean Territory (Chagos Archipelago)",
+    "genero": "Masculino",
+    "fecha_registro": "2025-01-29T13:47:16",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_342",
+    "nombre": "Sydney Khan",
+    "correo": "yrichardson@anderson-brown.com",
+    "pais": "Netherlands Antilles",
+    "genero": "Femenino",
+    "fecha_registro": "2023-09-09T16:51:42",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_343",
+    "nombre": "Shelby Fowler",
+    "correo": "ryanjeremiah@yahoo.com",
+    "pais": "Malta",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-21T09:20:40",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_344",
+    "nombre": "Alexander Taylor",
+    "correo": "georgesharp@gmail.com",
+    "pais": "Netherlands",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-26T04:23:12",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_345",
+    "nombre": "Angel Hayes",
+    "correo": "robert14@gmail.com",
+    "pais": "Qatar",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-15T01:41:37",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_346",
+    "nombre": "Elizabeth Stone",
+    "correo": "gallegoscrystal@yahoo.com",
+    "pais": "Dominica",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-02T01:29:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_347",
+    "nombre": "Jessica Burch",
+    "correo": "wilsondavid@mcmillan.com",
+    "pais": "Maldives",
+    "genero": "Masculino",
+    "fecha_registro": "2025-06-02T23:22:52",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_348",
+    "nombre": "James Wilkerson",
+    "correo": "hughesgail@flores.com",
+    "pais": "Bolivia",
+    "genero": "Masculino",
+    "fecha_registro": "2023-11-29T22:39:45",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_349",
+    "nombre": "Dawn Peterson",
+    "correo": "lhicks@armstrong-washington.info",
+    "pais": "Jamaica",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-28T07:16:24",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_350",
+    "nombre": "Stephanie Howell",
+    "correo": "kara01@gmail.com",
+    "pais": "Gabon",
+    "genero": "Femenino",
+    "fecha_registro": "2025-06-11T20:19:27",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_351",
+    "nombre": "Rebecca Galloway",
+    "correo": "kenneth78@english.com",
+    "pais": "Oman",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-02T08:27:35",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_352",
+    "nombre": "Becky Garcia",
+    "correo": "bvazquez@hotmail.com",
+    "pais": "Swaziland",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-22T12:15:17",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_353",
+    "nombre": "Wendy Carpenter",
+    "correo": "justin20@cowan.com",
+    "pais": "Iraq",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-22T23:53:31",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_354",
+    "nombre": "Laura Bender",
+    "correo": "qkane@yahoo.com",
+    "pais": "Switzerland",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-17T22:00:06",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_355",
+    "nombre": "Olivia Reese",
+    "correo": "smallkenneth@hotmail.com",
+    "pais": "Slovenia",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-26T01:03:09",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_356",
+    "nombre": "Mallory Carroll",
+    "correo": "annette40@clay.com",
+    "pais": "Zimbabwe",
+    "genero": "Masculino",
+    "fecha_registro": "2023-11-29T15:29:42",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_357",
+    "nombre": "Ashley Combs",
+    "correo": "kimberly66@castro.com",
+    "pais": "Micronesia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-17T23:53:39",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_358",
+    "nombre": "Mark Bryant",
+    "correo": "maygordon@gmail.com",
+    "pais": "Georgia",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-24T21:02:54",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_359",
+    "nombre": "Misty Meyer",
+    "correo": "elizabeth95@sanchez.net",
+    "pais": "Saudi Arabia",
+    "genero": "Masculino",
+    "fecha_registro": "2023-07-30T05:09:49",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_360",
+    "nombre": "Veronica Clayton",
+    "correo": "hclay@gmail.com",
+    "pais": "United Arab Emirates",
+    "genero": "Otro",
+    "fecha_registro": "2025-01-06T13:21:33",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_361",
+    "nombre": "Jessica Johnson",
+    "correo": "wgarza@rhodes.net",
+    "pais": "Hong Kong",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-03T14:49:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_362",
+    "nombre": "Jason Jones",
+    "correo": "hoffmanlindsey@powers.com",
+    "pais": "Seychelles",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-11T10:09:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_363",
+    "nombre": "Emily Rogers",
+    "correo": "megan46@hernandez.net",
+    "pais": "Faroe Islands",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-13T21:12:32",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_364",
+    "nombre": "Sarah Wall",
+    "correo": "agoodwin@contreras.biz",
+    "pais": "Nepal",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-15T01:37:32",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_365",
+    "nombre": "Jean Murillo",
+    "correo": "egordon@barnett.com",
+    "pais": "Swaziland",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-16T02:50:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_366",
+    "nombre": "Amber Jones",
+    "correo": "christopher91@morris.net",
+    "pais": "Congo",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-23T19:14:28",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_367",
+    "nombre": "Jessica Jenkins",
+    "correo": "blairjeffrey@nelson-huang.info",
+    "pais": "Kenya",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-23T18:03:37",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_368",
+    "nombre": "Christopher Klein",
+    "correo": "jessicahines@yahoo.com",
+    "pais": "Paraguay",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-25T14:51:56",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_369",
+    "nombre": "Haley Peters",
+    "correo": "ehardy@leblanc-hendrix.org",
+    "pais": "Reunion",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-26T01:17:06",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_370",
+    "nombre": "Richard Johnson",
+    "correo": "wallerjames@yahoo.com",
+    "pais": "Djibouti",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-23T21:31:00",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_371",
+    "nombre": "Tiffany Edwards",
+    "correo": "melvinwoodward@mcdonald.info",
+    "pais": "Algeria",
+    "genero": "Otro",
+    "fecha_registro": "2023-12-22T18:53:02",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_372",
+    "nombre": "Stephanie Martin",
+    "correo": "morrisonaaron@robinson.com",
+    "pais": "Sweden",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-18T07:27:18",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_373",
+    "nombre": "Emily Mcdonald",
+    "correo": "nmartinez@yahoo.com",
+    "pais": "Belarus",
+    "genero": "Femenino",
+    "fecha_registro": "2025-06-07T23:51:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_374",
+    "nombre": "Elizabeth Baker",
+    "correo": "michellemorris@lin.net",
+    "pais": "Aruba",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-11T13:32:13",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_375",
+    "nombre": "Donald Cooley",
+    "correo": "qharris@ross.com",
+    "pais": "Vanuatu",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-03T17:47:54",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_376",
+    "nombre": "Natalie Porter",
+    "correo": "charlesflowers@davis.net",
+    "pais": "Sweden",
+    "genero": "Otro",
+    "fecha_registro": "2023-12-05T06:59:13",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_377",
+    "nombre": "Corey Stone",
+    "correo": "ashleypeterson@yahoo.com",
+    "pais": "Slovenia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-03T14:02:28",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_378",
+    "nombre": "Jessica Chang",
+    "correo": "nancycharles@stephens.biz",
+    "pais": "Antarctica (the territory South of 60 deg S)",
+    "genero": "Masculino",
+    "fecha_registro": "2024-04-04T12:30:55",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_379",
+    "nombre": "Paul Moyer",
+    "correo": "lfloyd@ball.com",
+    "pais": "Korea",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-22T03:30:28",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_380",
+    "nombre": "Jennifer Hurley",
+    "correo": "zholmes@dalton.com",
+    "pais": "Serbia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-18T08:55:26",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_381",
+    "nombre": "Charles Hopkins",
+    "correo": "jeffreybailey@moore.com",
+    "pais": "American Samoa",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-11T08:37:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_382",
+    "nombre": "William Giles",
+    "correo": "uhudson@gmail.com",
+    "pais": "Maldives",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-03T12:05:49",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_383",
+    "nombre": "Carrie Holden",
+    "correo": "ashley79@grant.com",
+    "pais": "Dominica",
+    "genero": "Masculino",
+    "fecha_registro": "2024-06-14T14:00:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_384",
+    "nombre": "Kimberly Logan",
+    "correo": "davidsellers@yates-bean.com",
+    "pais": "Panama",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-30T10:34:11",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_385",
+    "nombre": "Vanessa George",
+    "correo": "deborah49@yahoo.com",
+    "pais": "Tanzania",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-06T20:15:49",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_386",
+    "nombre": "Kristen Jones",
+    "correo": "michael88@rivers-potter.com",
+    "pais": "Puerto Rico",
+    "genero": "Masculino",
+    "fecha_registro": "2024-12-06T05:55:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_387",
+    "nombre": "Howard White",
+    "correo": "mmyers@hotmail.com",
+    "pais": "Seychelles",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-07T17:13:38",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_388",
+    "nombre": "Timothy Hayes",
+    "correo": "stuartbryan@hotmail.com",
+    "pais": "Panama",
+    "genero": "Femenino",
+    "fecha_registro": "2024-07-09T00:11:03",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_389",
+    "nombre": "Joseph Cruz Jr.",
+    "correo": "jhiggins@gmail.com",
+    "pais": "Ghana",
+    "genero": "Otro",
+    "fecha_registro": "2024-08-20T12:04:09",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_390",
+    "nombre": "Kathleen Brady",
+    "correo": "rossjacob@hotmail.com",
+    "pais": "Somalia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-17T01:55:55",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_391",
+    "nombre": "Michael Ware",
+    "correo": "njames@yahoo.com",
+    "pais": "Poland",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-05T07:15:19",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_392",
+    "nombre": "Amanda Martinez",
+    "correo": "kimberlycooper@yahoo.com",
+    "pais": "Ethiopia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-27T17:46:04",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_393",
+    "nombre": "Joseph Murray",
+    "correo": "donaldserrano@hotmail.com",
+    "pais": "French Polynesia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-07T20:26:43",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_394",
+    "nombre": "Madison Anderson",
+    "correo": "ogreer@gmail.com",
+    "pais": "Mauritius",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-03T08:53:17",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_395",
+    "nombre": "Gina Martin",
+    "correo": "jacob57@sloan.biz",
+    "pais": "Chad",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-05T14:00:04",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_396",
+    "nombre": "Tracy Walker",
+    "correo": "alyssa51@dalton.com",
+    "pais": "Moldova",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-18T13:46:57",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_397",
+    "nombre": "Jacob Lynn",
+    "correo": "stephanie85@gmail.com",
+    "pais": "New Caledonia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-21T12:24:52",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_398",
+    "nombre": "Patricia Mitchell",
+    "correo": "adrianparker@hotmail.com",
+    "pais": "British Indian Ocean Territory (Chagos Archipelago)",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-28T09:24:02",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_399",
+    "nombre": "Kayla Ray",
+    "correo": "kgeorge@gonzalez.com",
+    "pais": "Morocco",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-15T22:38:53",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_400",
+    "nombre": "Andrew Roberson",
+    "correo": "uparker@chavez-murphy.com",
+    "pais": "Cook Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2023-10-07T21:43:14",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_401",
+    "nombre": "Christopher Harvey",
+    "correo": "halvarez@allen.info",
+    "pais": "Thailand",
+    "genero": "Masculino",
+    "fecha_registro": "2024-03-19T02:13:53",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_402",
+    "nombre": "Tyler Baker",
+    "correo": "campbellkayla@johnson.com",
+    "pais": "Korea",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-09T01:19:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_403",
+    "nombre": "Theresa Martinez",
+    "correo": "jacobsmary@yahoo.com",
+    "pais": "Albania",
+    "genero": "Otro",
+    "fecha_registro": "2024-02-12T15:28:25",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_404",
+    "nombre": "David Palmer",
+    "correo": "imartin@yahoo.com",
+    "pais": "Micronesia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-04-05T01:37:52",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_405",
+    "nombre": "Patty Butler",
+    "correo": "csparks@hotmail.com",
+    "pais": "Kenya",
+    "genero": "Masculino",
+    "fecha_registro": "2024-02-18T17:55:16",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_406",
+    "nombre": "Christopher Vasquez",
+    "correo": "tonya48@hotmail.com",
+    "pais": "Guadeloupe",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-04T20:58:20",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_407",
+    "nombre": "Tracey Hogan",
+    "correo": "gregory24@hotmail.com",
+    "pais": "United States Minor Outlying Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-16T18:53:41",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_408",
+    "nombre": "Robin Patterson",
+    "correo": "taylormelissa@gmail.com",
+    "pais": "Armenia",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-14T17:56:39",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_409",
+    "nombre": "Jacqueline Hall",
+    "correo": "mullendavid@lloyd.com",
+    "pais": "Cote d'Ivoire",
+    "genero": "Femenino",
+    "fecha_registro": "2023-07-20T22:46:49",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_410",
+    "nombre": "John Boyd",
+    "correo": "evelyncampbell@yahoo.com",
+    "pais": "Thailand",
+    "genero": "Otro",
+    "fecha_registro": "2024-08-23T08:53:45",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_411",
+    "nombre": "Janet Willis",
+    "correo": "victorjefferson@gmail.com",
+    "pais": "Jamaica",
+    "genero": "Femenino",
+    "fecha_registro": "2024-06-29T09:00:05",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_412",
+    "nombre": "Rachel Ball",
+    "correo": "ahernandez@gmail.com",
+    "pais": "Haiti",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-03T16:51:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_413",
+    "nombre": "Nancy Jackson",
+    "correo": "jason18@gmail.com",
+    "pais": "Sri Lanka",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-08T12:56:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_414",
+    "nombre": "Joshua Velasquez",
+    "correo": "marymartinez@thomas.com",
+    "pais": "Niger",
+    "genero": "Otro",
+    "fecha_registro": "2023-09-26T13:13:08",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_415",
+    "nombre": "Oscar Mcclure",
+    "correo": "kbaker@robbins.com",
+    "pais": "Anguilla",
+    "genero": "Masculino",
+    "fecha_registro": "2024-09-02T05:43:03",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_416",
+    "nombre": "John Stone",
+    "correo": "lthompson@castillo-flores.com",
+    "pais": "Moldova",
+    "genero": "Otro",
+    "fecha_registro": "2024-11-15T04:46:24",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_417",
+    "nombre": "Chad Moore",
+    "correo": "douglas18@harmon.com",
+    "pais": "Saint Lucia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-04T01:01:50",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_418",
+    "nombre": "Joshua White",
+    "correo": "brewergregory@yahoo.com",
+    "pais": "Poland",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-30T16:07:17",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_419",
+    "nombre": "Richard Chandler",
+    "correo": "nguyengerald@moses.biz",
+    "pais": "Turkmenistan",
+    "genero": "Femenino",
+    "fecha_registro": "2023-11-26T14:12:52",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_420",
+    "nombre": "Morgan Lloyd",
+    "correo": "joel82@mosley.com",
+    "pais": "Reunion",
+    "genero": "Femenino",
+    "fecha_registro": "2024-01-22T13:09:31",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_421",
+    "nombre": "Savannah Fernandez",
+    "correo": "joseph17@hotmail.com",
+    "pais": "Oman",
+    "genero": "Otro",
+    "fecha_registro": "2024-07-10T06:24:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_422",
+    "nombre": "Sonya Robinson",
+    "correo": "john09@yahoo.com",
+    "pais": "Eritrea",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-18T19:47:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_423",
+    "nombre": "Robert Hampton",
+    "correo": "patriciamunoz@gonzales.com",
+    "pais": "Central African Republic",
+    "genero": "Otro",
+    "fecha_registro": "2023-08-28T16:23:02",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_424",
+    "nombre": "Melvin Carlson",
+    "correo": "lewisjean@yahoo.com",
+    "pais": "Burundi",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-08T19:04:51",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_425",
+    "nombre": "Theresa Stone",
+    "correo": "anthonyleonard@taylor.biz",
+    "pais": "Saint Lucia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-21T16:32:24",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_426",
+    "nombre": "Amy Lopez",
+    "correo": "bakerangela@cochran.net",
+    "pais": "Macedonia",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-17T10:03:13",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_427",
+    "nombre": "Hannah Clark",
+    "correo": "jack86@gmail.com",
+    "pais": "South Georgia and the South Sandwich Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2025-04-27T09:41:33",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_428",
+    "nombre": "Rachel Cervantes",
+    "correo": "andrespence@nielsen.com",
+    "pais": "Suriname",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-03T10:13:11",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_429",
+    "nombre": "Laura Rodriguez",
+    "correo": "mary23@duncan.com",
+    "pais": "Norway",
+    "genero": "Otro",
+    "fecha_registro": "2024-10-06T22:31:33",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_430",
+    "nombre": "Timothy Mcmahon",
+    "correo": "davisjames@yahoo.com",
+    "pais": "Palau",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-20T16:58:47",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_431",
+    "nombre": "Cheryl Salazar",
+    "correo": "rayvictoria@clark.info",
+    "pais": "Bermuda",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-31T09:53:30",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_432",
+    "nombre": "Brianna Williams",
+    "correo": "darrellmoore@bradshaw.com",
+    "pais": "Austria",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-14T01:48:06",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_433",
+    "nombre": "Nichole Davis",
+    "correo": "ipowell@williams.com",
+    "pais": "Kiribati",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-30T05:55:50",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_434",
+    "nombre": "Mary Schaefer",
+    "correo": "jamesdean@hotmail.com",
+    "pais": "Croatia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-14T09:06:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_435",
+    "nombre": "Corey James",
+    "correo": "guerrerostanley@shepherd.com",
+    "pais": "Christmas Island",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-02T15:38:20",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_436",
+    "nombre": "Alexander Hansen",
+    "correo": "sandraheath@hotmail.com",
+    "pais": "Papua New Guinea",
+    "genero": "Otro",
+    "fecha_registro": "2024-03-26T07:57:03",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_437",
+    "nombre": "Mrs. Donna Anderson",
+    "correo": "virginia56@cochran.com",
+    "pais": "Sri Lanka",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-30T07:43:34",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_438",
+    "nombre": "Laura Reed",
+    "correo": "frankjeremy@yahoo.com",
+    "pais": "British Indian Ocean Territory (Chagos Archipelago)",
+    "genero": "Otro",
+    "fecha_registro": "2023-11-03T19:46:12",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_439",
+    "nombre": "Jeff Howard",
+    "correo": "paul23@gmail.com",
+    "pais": "Eritrea",
+    "genero": "Femenino",
+    "fecha_registro": "2023-09-12T20:06:15",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_440",
+    "nombre": "Paula Johnson",
+    "correo": "hendersonmichael@gmail.com",
+    "pais": "Lesotho",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-11T21:30:14",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_441",
+    "nombre": "Diana Jackson",
+    "correo": "fhiggins@simmons-garza.biz",
+    "pais": "Denmark",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-25T14:05:53",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_442",
+    "nombre": "Douglas Santos",
+    "correo": "luis20@haynes.com",
+    "pais": "Egypt",
+    "genero": "Femenino",
+    "fecha_registro": "2023-08-31T04:13:39",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_443",
+    "nombre": "Luis Velez",
+    "correo": "xelliott@hotmail.com",
+    "pais": "Korea",
+    "genero": "Femenino",
+    "fecha_registro": "2024-04-27T21:31:25",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_444",
+    "nombre": "Richard Dean",
+    "correo": "xlawrence@yahoo.com",
+    "pais": "Holy See (Vatican City State)",
+    "genero": "Otro",
+    "fecha_registro": "2024-02-23T00:33:05",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_445",
+    "nombre": "Christopher Sanchez",
+    "correo": "taylorlisa@yahoo.com",
+    "pais": "Jordan",
+    "genero": "Otro",
+    "fecha_registro": "2023-07-18T17:52:56",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_446",
+    "nombre": "Justin Hammond",
+    "correo": "clarklinda@sparks.biz",
+    "pais": "Falkland Islands (Malvinas)",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-28T14:35:08",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_447",
+    "nombre": "Katherine Coleman",
+    "correo": "blacklisa@diaz.com",
+    "pais": "Guam",
+    "genero": "Otro",
+    "fecha_registro": "2025-01-13T16:07:39",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_448",
+    "nombre": "Bradley Romero",
+    "correo": "dgarcia@yahoo.com",
+    "pais": "Rwanda",
+    "genero": "Otro",
+    "fecha_registro": "2024-01-10T15:20:46",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_449",
+    "nombre": "Wayne Hess",
+    "correo": "tara47@yahoo.com",
+    "pais": "Cook Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-29T19:10:21",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_450",
+    "nombre": "Brian Gonzalez",
+    "correo": "iwhite@rhodes.org",
+    "pais": "El Salvador",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-05T00:18:36",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_451",
+    "nombre": "Bryan Smith",
+    "correo": "catherinemoore@weeks-massey.biz",
+    "pais": "Jordan",
+    "genero": "Otro",
+    "fecha_registro": "2025-04-16T00:23:05",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_452",
+    "nombre": "Harry Brown",
+    "correo": "hollyalvarez@brown.biz",
+    "pais": "Israel",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-11T04:01:59",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_453",
+    "nombre": "Vincent Sims",
+    "correo": "popebrent@tucker.com",
+    "pais": "Angola",
+    "genero": "Femenino",
+    "fecha_registro": "2025-02-17T09:44:53",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_454",
+    "nombre": "Lauren Stephens",
+    "correo": "audrey53@bright.com",
+    "pais": "Equatorial Guinea",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-01T20:35:13",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_455",
+    "nombre": "Amanda Lawrence",
+    "correo": "hlogan@yahoo.com",
+    "pais": "Northern Mariana Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-06T08:39:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_456",
+    "nombre": "Christina Garza",
+    "correo": "jreyes@carter.com",
+    "pais": "Canada",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-31T14:46:18",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_457",
+    "nombre": "Dr. John Duncan",
+    "correo": "mariahgill@white-mclaughlin.net",
+    "pais": "Paraguay",
+    "genero": "Femenino",
+    "fecha_registro": "2024-10-17T15:31:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_458",
+    "nombre": "Lauren Barr",
+    "correo": "joneslynn@yahoo.com",
+    "pais": "Chad",
+    "genero": "Femenino",
+    "fecha_registro": "2025-06-01T19:11:20",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_459",
+    "nombre": "William Keller",
+    "correo": "tannerrobertson@richard.com",
+    "pais": "Panama",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-14T10:07:31",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_460",
+    "nombre": "Lynn Guerrero",
+    "correo": "atkinsonrachel@hotmail.com",
+    "pais": "Western Sahara",
+    "genero": "Femenino",
+    "fecha_registro": "2025-03-28T08:51:26",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_461",
+    "nombre": "Jacob Miles",
+    "correo": "phyllismiller@yahoo.com",
+    "pais": "Angola",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-03T08:58:28",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_462",
+    "nombre": "Kathy Matthews",
+    "correo": "ochoamelissa@hotmail.com",
+    "pais": "Vanuatu",
+    "genero": "Otro",
+    "fecha_registro": "2024-05-21T12:53:00",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_463",
+    "nombre": "Elizabeth Taylor",
+    "correo": "warroyo@palmer.info",
+    "pais": "Macedonia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-05-01T23:04:38",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_464",
+    "nombre": "Adam Thompson",
+    "correo": "amber67@kennedy-davis.com",
+    "pais": "Tajikistan",
+    "genero": "Otro",
+    "fecha_registro": "2023-12-10T08:34:19",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_465",
+    "nombre": "Bradley Larson",
+    "correo": "villawilliam@craig-garza.com",
+    "pais": "Nepal",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-18T08:20:43",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_466",
+    "nombre": "Steven Hernandez",
+    "correo": "dbeck@yahoo.com",
+    "pais": "Aruba",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-15T23:45:29",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_467",
+    "nombre": "Micheal Green",
+    "correo": "brodriguez@snyder.com",
+    "pais": "Christmas Island",
+    "genero": "Masculino",
+    "fecha_registro": "2024-07-29T06:44:19",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_468",
+    "nombre": "Steven Vazquez",
+    "correo": "jennifer51@carpenter-trevino.biz",
+    "pais": "Cocos (Keeling) Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2024-02-29T02:04:15",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_469",
+    "nombre": "Stacey Howe",
+    "correo": "preyes@hotmail.com",
+    "pais": "Estonia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-11-02T19:48:20",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_470",
+    "nombre": "Derek Hunt",
+    "correo": "wallaceeric@garcia-thomas.com",
+    "pais": "Morocco",
+    "genero": "Otro",
+    "fecha_registro": "2025-02-25T23:17:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_471",
+    "nombre": "Mark Hill",
+    "correo": "shawaudrey@adams.net",
+    "pais": "Qatar",
+    "genero": "Masculino",
+    "fecha_registro": "2024-08-09T09:20:50",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_472",
+    "nombre": "Andrew Graham",
+    "correo": "wmendoza@hotmail.com",
+    "pais": "Kenya",
+    "genero": "Masculino",
+    "fecha_registro": "2024-10-26T03:58:27",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_473",
+    "nombre": "Jessica Hanson",
+    "correo": "evansjason@willis.com",
+    "pais": "Guinea-Bissau",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-11T04:15:47",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_474",
+    "nombre": "Linda Briggs",
+    "correo": "nrodriguez@cortez-kline.com",
+    "pais": "Colombia",
+    "genero": "Masculino",
+    "fecha_registro": "2024-01-25T17:39:59",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_475",
+    "nombre": "David Hawkins",
+    "correo": "scook@kent.com",
+    "pais": "Sao Tome and Principe",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-07T06:17:06",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_476",
+    "nombre": "Dennis Jensen MD",
+    "correo": "heidihill@butler.info",
+    "pais": "Ukraine",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-16T05:46:12",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_477",
+    "nombre": "Jose Graves",
+    "correo": "clinesteven@thomas.biz",
+    "pais": "Malaysia",
+    "genero": "Masculino",
+    "fecha_registro": "2025-05-05T02:55:17",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_478",
+    "nombre": "Rachel Franco DDS",
+    "correo": "ivalentine@yahoo.com",
+    "pais": "New Zealand",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-12T17:18:00",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_479",
+    "nombre": "Regina Wright",
+    "correo": "gcollins@yahoo.com",
+    "pais": "Mongolia",
+    "genero": "Otro",
+    "fecha_registro": "2024-03-15T05:35:07",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_480",
+    "nombre": "Sharon Murphy",
+    "correo": "linda01@gmail.com",
+    "pais": "New Zealand",
+    "genero": "Femenino",
+    "fecha_registro": "2023-10-29T07:12:19",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_481",
+    "nombre": "Meghan Brown",
+    "correo": "john60@yahoo.com",
+    "pais": "Brazil",
+    "genero": "Masculino",
+    "fecha_registro": "2023-09-09T07:00:00",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_482",
+    "nombre": "Jay Chandler",
+    "correo": "uclark@jenkins.com",
+    "pais": "Bolivia",
+    "genero": "Femenino",
+    "fecha_registro": "2024-08-19T09:03:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_483",
+    "nombre": "Erin Greene",
+    "correo": "bsmith@hotmail.com",
+    "pais": "Palau",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-03T12:34:31",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_484",
+    "nombre": "Renee Evans",
+    "correo": "brandonknapp@yahoo.com",
+    "pais": "Pitcairn Islands",
+    "genero": "Femenino",
+    "fecha_registro": "2025-05-18T15:09:02",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_485",
+    "nombre": "Steven Hensley",
+    "correo": "djimenez@yahoo.com",
+    "pais": "Somalia",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-19T02:55:43",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_486",
+    "nombre": "Adrian Gibbs",
+    "correo": "rodney57@yahoo.com",
+    "pais": "Guam",
+    "genero": "Femenino",
+    "fecha_registro": "2024-09-06T03:00:52",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_487",
+    "nombre": "Laura Patton",
+    "correo": "tami38@hotmail.com",
+    "pais": "Antarctica (the territory South of 60 deg S)",
+    "genero": "Masculino",
+    "fecha_registro": "2024-06-10T20:21:04",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_488",
+    "nombre": "Scott Wood",
+    "correo": "ologan@gmail.com",
+    "pais": "Sierra Leone",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-05T20:43:14",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_489",
+    "nombre": "Dylan Rodriguez",
+    "correo": "jeremy00@hotmail.com",
+    "pais": "Venezuela",
+    "genero": "Femenino",
+    "fecha_registro": "2024-12-22T02:51:11",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_490",
+    "nombre": "Scott Wilson",
+    "correo": "herbert76@benson-wells.biz",
+    "pais": "Burkina Faso",
+    "genero": "Masculino",
+    "fecha_registro": "2025-02-28T21:23:01",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_491",
+    "nombre": "Austin Johnson",
+    "correo": "juanlucero@watson.com",
+    "pais": "Marshall Islands",
+    "genero": "Masculino",
+    "fecha_registro": "2025-03-26T13:54:35",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_492",
+    "nombre": "Jasmine Brown",
+    "correo": "wellszachary@olson-simpson.net",
+    "pais": "Brunei Darussalam",
+    "genero": "Masculino",
+    "fecha_registro": "2023-12-15T18:29:32",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_493",
+    "nombre": "Carrie Larson",
+    "correo": "agalvan@yahoo.com",
+    "pais": "Kiribati",
+    "genero": "Otro",
+    "fecha_registro": "2023-10-29T09:51:30",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_494",
+    "nombre": "Jennifer Baker MD",
+    "correo": "thomasdaniel@gmail.com",
+    "pais": "Austria",
+    "genero": "Otro",
+    "fecha_registro": "2023-12-21T23:45:22",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_495",
+    "nombre": "Crystal Wolf",
+    "correo": "jeremy59@hotmail.com",
+    "pais": "Hungary",
+    "genero": "Otro",
+    "fecha_registro": "2025-05-19T13:47:23",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_496",
+    "nombre": "Amber Spencer",
+    "correo": "tonya82@anderson-powers.com",
+    "pais": "Macao",
+    "genero": "Femenino",
+    "fecha_registro": "2024-03-24T12:19:22",
+    "dispositivo": "Desktop"
+  },
+  {
+    "_id": "user_497",
+    "nombre": "Heidi Goodwin",
+    "correo": "johnsonshirley@yahoo.com",
+    "pais": "Gambia",
+    "genero": "Otro",
+    "fecha_registro": "2024-12-04T16:25:25",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_498",
+    "nombre": "Matthew Morgan",
+    "correo": "meganjones@blackburn.info",
+    "pais": "France",
+    "genero": "Otro",
+    "fecha_registro": "2025-03-05T12:09:03",
+    "dispositivo": "M\u00f3vil"
+  },
+  {
+    "_id": "user_499",
+    "nombre": "Pamela Simon",
+    "correo": "hayesrachel@yahoo.com",
+    "pais": "Serbia",
+    "genero": "Femenino",
+    "fecha_registro": "2023-12-23T20:17:25",
+    "dispositivo": "Tablet"
+  },
+  {
+    "_id": "user_500",
+    "nombre": "Edward May",
+    "correo": "mjackson@ryan.info",
+    "pais": "Guinea",
+    "genero": "Femenino",
+    "fecha_registro": "2025-01-21T08:55:09",
+    "dispositivo": "Desktop"
+  }
+]

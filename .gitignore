@@ -1,0 +1,19 @@
+# Credenciales: nunca al repositorio
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs de la API
+logs/
+*.log
+
+# Sistema
+.DS_Store
+__MACOSX/
+Thumbs.db

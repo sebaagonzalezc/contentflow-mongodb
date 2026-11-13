@@ -1,0 +1,3502 @@
+[
+  {
+    "_id": "react_1",
+    "usuario_id": "user_141",
+    "publicacion_id": "pub_201",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-18T22:46:33"
+  },
+  {
+    "_id": "react_2",
+    "usuario_id": "user_358",
+    "publicacion_id": "pub_410",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-13T20:00:30"
+  },
+  {
+    "_id": "react_3",
+    "usuario_id": "user_238",
+    "publicacion_id": "pub_214",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-01T04:43:46"
+  },
+  {
+    "_id": "react_4",
+    "usuario_id": "user_76",
+    "publicacion_id": "pub_15",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-01T16:10:22"
+  },
+  {
+    "_id": "react_5",
+    "usuario_id": "user_235",
+    "publicacion_id": "pub_62",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-20T12:15:22"
+  },
+  {
+    "_id": "react_6",
+    "usuario_id": "user_6",
+    "publicacion_id": "pub_298",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-07T13:31:21"
+  },
+  {
+    "_id": "react_7",
+    "usuario_id": "user_18",
+    "publicacion_id": "pub_331",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-28T12:28:51"
+  },
+  {
+    "_id": "react_8",
+    "usuario_id": "user_22",
+    "publicacion_id": "pub_465",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-16T06:22:47"
+  },
+  {
+    "_id": "react_9",
+    "usuario_id": "user_493",
+    "publicacion_id": "pub_72",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-25T14:58:37"
+  },
+  {
+    "_id": "react_10",
+    "usuario_id": "user_452",
+    "publicacion_id": "pub_371",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-30T19:59:49"
+  },
+  {
+    "_id": "react_11",
+    "usuario_id": "user_142",
+    "publicacion_id": "pub_5",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-19T15:50:58"
+  },
+  {
+    "_id": "react_12",
+    "usuario_id": "user_184",
+    "publicacion_id": "pub_257",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-28T01:19:08"
+  },
+  {
+    "_id": "react_13",
+    "usuario_id": "user_179",
+    "publicacion_id": "pub_463",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-25T16:47:03"
+  },
+  {
+    "_id": "react_14",
+    "usuario_id": "user_263",
+    "publicacion_id": "pub_33",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-14T14:50:33"
+  },
+  {
+    "_id": "react_15",
+    "usuario_id": "user_336",
+    "publicacion_id": "pub_78",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-09T02:28:12"
+  },
+  {
+    "_id": "react_16",
+    "usuario_id": "user_336",
+    "publicacion_id": "pub_369",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-24T15:34:46"
+  },
+  {
+    "_id": "react_17",
+    "usuario_id": "user_236",
+    "publicacion_id": "pub_367",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-10T11:01:40"
+  },
+  {
+    "_id": "react_18",
+    "usuario_id": "user_143",
+    "publicacion_id": "pub_402",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-04T23:08:07"
+  },
+  {
+    "_id": "react_19",
+    "usuario_id": "user_473",
+    "publicacion_id": "pub_202",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-06T01:04:21"
+  },
+  {
+    "_id": "react_20",
+    "usuario_id": "user_470",
+    "publicacion_id": "pub_430",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-29T01:39:52"
+  },
+  {
+    "_id": "react_21",
+    "usuario_id": "user_193",
+    "publicacion_id": "pub_493",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-03T16:23:20"
+  },
+  {
+    "_id": "react_22",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_338",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-30T00:57:57"
+  },
+  {
+    "_id": "react_23",
+    "usuario_id": "user_295",
+    "publicacion_id": "pub_363",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-22T14:06:19"
+  },
+  {
+    "_id": "react_24",
+    "usuario_id": "user_67",
+    "publicacion_id": "pub_358",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-16T21:18:12"
+  },
+  {
+    "_id": "react_25",
+    "usuario_id": "user_302",
+    "publicacion_id": "pub_490",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-25T23:57:50"
+  },
+  {
+    "_id": "react_26",
+    "usuario_id": "user_300",
+    "publicacion_id": "pub_317",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-14T07:05:47"
+  },
+  {
+    "_id": "react_27",
+    "usuario_id": "user_35",
+    "publicacion_id": "pub_24",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-19T21:17:56"
+  },
+  {
+    "_id": "react_28",
+    "usuario_id": "user_437",
+    "publicacion_id": "pub_376",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-16T09:17:28"
+  },
+  {
+    "_id": "react_29",
+    "usuario_id": "user_119",
+    "publicacion_id": "pub_50",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-16T17:44:22"
+  },
+  {
+    "_id": "react_30",
+    "usuario_id": "user_256",
+    "publicacion_id": "pub_479",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-11T15:20:09"
+  },
+  {
+    "_id": "react_31",
+    "usuario_id": "user_166",
+    "publicacion_id": "pub_390",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-07T01:55:01"
+  },
+  {
+    "_id": "react_32",
+    "usuario_id": "user_396",
+    "publicacion_id": "pub_414",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-15T20:47:56"
+  },
+  {
+    "_id": "react_33",
+    "usuario_id": "user_54",
+    "publicacion_id": "pub_461",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-06T18:19:33"
+  },
+  {
+    "_id": "react_34",
+    "usuario_id": "user_373",
+    "publicacion_id": "pub_457",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-13T14:13:41"
+  },
+  {
+    "_id": "react_35",
+    "usuario_id": "user_387",
+    "publicacion_id": "pub_499",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-08T09:41:31"
+  },
+  {
+    "_id": "react_36",
+    "usuario_id": "user_473",
+    "publicacion_id": "pub_33",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-02T20:03:46"
+  },
+  {
+    "_id": "react_37",
+    "usuario_id": "user_314",
+    "publicacion_id": "pub_129",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-08T08:13:03"
+  },
+  {
+    "_id": "react_38",
+    "usuario_id": "user_20",
+    "publicacion_id": "pub_434",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-30T07:44:35"
+  },
+  {
+    "_id": "react_39",
+    "usuario_id": "user_227",
+    "publicacion_id": "pub_391",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-17T15:18:54"
+  },
+  {
+    "_id": "react_40",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_324",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-05T13:02:18"
+  },
+  {
+    "_id": "react_41",
+    "usuario_id": "user_473",
+    "publicacion_id": "pub_90",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-11T21:12:28"
+  },
+  {
+    "_id": "react_42",
+    "usuario_id": "user_56",
+    "publicacion_id": "pub_358",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-10T02:46:47"
+  },
+  {
+    "_id": "react_43",
+    "usuario_id": "user_194",
+    "publicacion_id": "pub_69",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-26T23:33:45"
+  },
+  {
+    "_id": "react_44",
+    "usuario_id": "user_101",
+    "publicacion_id": "pub_130",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-09T13:36:42"
+  },
+  {
+    "_id": "react_45",
+    "usuario_id": "user_225",
+    "publicacion_id": "pub_348",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-20T21:16:10"
+  },
+  {
+    "_id": "react_46",
+    "usuario_id": "user_116",
+    "publicacion_id": "pub_104",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-18T10:09:27"
+  },
+  {
+    "_id": "react_47",
+    "usuario_id": "user_223",
+    "publicacion_id": "pub_417",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-06T07:43:06"
+  },
+  {
+    "_id": "react_48",
+    "usuario_id": "user_45",
+    "publicacion_id": "pub_299",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-05T05:02:26"
+  },
+  {
+    "_id": "react_49",
+    "usuario_id": "user_323",
+    "publicacion_id": "pub_492",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-20T08:06:40"
+  },
+  {
+    "_id": "react_50",
+    "usuario_id": "user_105",
+    "publicacion_id": "pub_18",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-13T09:49:24"
+  },
+  {
+    "_id": "react_51",
+    "usuario_id": "user_458",
+    "publicacion_id": "pub_3",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-15T00:41:10"
+  },
+  {
+    "_id": "react_52",
+    "usuario_id": "user_397",
+    "publicacion_id": "pub_209",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-20T06:34:51"
+  },
+  {
+    "_id": "react_53",
+    "usuario_id": "user_175",
+    "publicacion_id": "pub_95",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-31T19:56:59"
+  },
+  {
+    "_id": "react_54",
+    "usuario_id": "user_98",
+    "publicacion_id": "pub_427",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-15T15:48:28"
+  },
+  {
+    "_id": "react_55",
+    "usuario_id": "user_293",
+    "publicacion_id": "pub_424",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-16T03:57:03"
+  },
+  {
+    "_id": "react_56",
+    "usuario_id": "user_257",
+    "publicacion_id": "pub_181",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-07T04:52:31"
+  },
+  {
+    "_id": "react_57",
+    "usuario_id": "user_317",
+    "publicacion_id": "pub_461",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-05T13:39:34"
+  },
+  {
+    "_id": "react_58",
+    "usuario_id": "user_411",
+    "publicacion_id": "pub_35",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-14T14:03:35"
+  },
+  {
+    "_id": "react_59",
+    "usuario_id": "user_219",
+    "publicacion_id": "pub_321",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-13T15:25:50"
+  },
+  {
+    "_id": "react_60",
+    "usuario_id": "user_448",
+    "publicacion_id": "pub_37",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-21T04:32:20"
+  },
+  {
+    "_id": "react_61",
+    "usuario_id": "user_66",
+    "publicacion_id": "pub_401",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-30T03:11:17"
+  },
+  {
+    "_id": "react_62",
+    "usuario_id": "user_52",
+    "publicacion_id": "pub_61",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-14T17:36:10"
+  },
+  {
+    "_id": "react_63",
+    "usuario_id": "user_119",
+    "publicacion_id": "pub_27",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-26T12:41:48"
+  },
+  {
+    "_id": "react_64",
+    "usuario_id": "user_12",
+    "publicacion_id": "pub_115",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-25T23:44:43"
+  },
+  {
+    "_id": "react_65",
+    "usuario_id": "user_473",
+    "publicacion_id": "pub_425",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-02T23:41:27"
+  },
+  {
+    "_id": "react_66",
+    "usuario_id": "user_200",
+    "publicacion_id": "pub_361",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-18T18:39:12"
+  },
+  {
+    "_id": "react_67",
+    "usuario_id": "user_35",
+    "publicacion_id": "pub_447",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-05T04:12:40"
+  },
+  {
+    "_id": "react_68",
+    "usuario_id": "user_496",
+    "publicacion_id": "pub_148",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-21T04:54:51"
+  },
+  {
+    "_id": "react_69",
+    "usuario_id": "user_274",
+    "publicacion_id": "pub_295",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-12T00:37:27"
+  },
+  {
+    "_id": "react_70",
+    "usuario_id": "user_437",
+    "publicacion_id": "pub_266",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-05T07:05:10"
+  },
+  {
+    "_id": "react_71",
+    "usuario_id": "user_205",
+    "publicacion_id": "pub_317",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-05T16:39:13"
+  },
+  {
+    "_id": "react_72",
+    "usuario_id": "user_280",
+    "publicacion_id": "pub_358",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-16T07:21:14"
+  },
+  {
+    "_id": "react_73",
+    "usuario_id": "user_299",
+    "publicacion_id": "pub_242",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-03T20:05:13"
+  },
+  {
+    "_id": "react_74",
+    "usuario_id": "user_335",
+    "publicacion_id": "pub_16",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-11T22:23:55"
+  },
+  {
+    "_id": "react_75",
+    "usuario_id": "user_174",
+    "publicacion_id": "pub_216",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-03T12:19:27"
+  },
+  {
+    "_id": "react_76",
+    "usuario_id": "user_103",
+    "publicacion_id": "pub_172",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-18T05:39:26"
+  },
+  {
+    "_id": "react_77",
+    "usuario_id": "user_72",
+    "publicacion_id": "pub_105",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-30T07:47:15"
+  },
+  {
+    "_id": "react_78",
+    "usuario_id": "user_474",
+    "publicacion_id": "pub_388",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-07T05:53:12"
+  },
+  {
+    "_id": "react_79",
+    "usuario_id": "user_121",
+    "publicacion_id": "pub_253",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-11T18:03:37"
+  },
+  {
+    "_id": "react_80",
+    "usuario_id": "user_413",
+    "publicacion_id": "pub_486",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-23T08:24:49"
+  },
+  {
+    "_id": "react_81",
+    "usuario_id": "user_178",
+    "publicacion_id": "pub_37",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-13T13:16:50"
+  },
+  {
+    "_id": "react_82",
+    "usuario_id": "user_307",
+    "publicacion_id": "pub_379",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-08T23:24:48"
+  },
+  {
+    "_id": "react_83",
+    "usuario_id": "user_455",
+    "publicacion_id": "pub_283",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-25T03:32:34"
+  },
+  {
+    "_id": "react_84",
+    "usuario_id": "user_485",
+    "publicacion_id": "pub_67",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-18T05:01:45"
+  },
+  {
+    "_id": "react_85",
+    "usuario_id": "user_371",
+    "publicacion_id": "pub_22",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-05T12:04:29"
+  },
+  {
+    "_id": "react_86",
+    "usuario_id": "user_19",
+    "publicacion_id": "pub_255",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-30T13:51:27"
+  },
+  {
+    "_id": "react_87",
+    "usuario_id": "user_333",
+    "publicacion_id": "pub_180",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-03T13:41:25"
+  },
+  {
+    "_id": "react_88",
+    "usuario_id": "user_245",
+    "publicacion_id": "pub_156",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-20T23:11:56"
+  },
+  {
+    "_id": "react_89",
+    "usuario_id": "user_11",
+    "publicacion_id": "pub_477",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-02T16:46:44"
+  },
+  {
+    "_id": "react_90",
+    "usuario_id": "user_14",
+    "publicacion_id": "pub_397",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-08T04:34:06"
+  },
+  {
+    "_id": "react_91",
+    "usuario_id": "user_274",
+    "publicacion_id": "pub_312",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-29T14:00:35"
+  },
+  {
+    "_id": "react_92",
+    "usuario_id": "user_350",
+    "publicacion_id": "pub_351",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-19T11:35:05"
+  },
+  {
+    "_id": "react_93",
+    "usuario_id": "user_283",
+    "publicacion_id": "pub_247",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-25T17:00:28"
+  },
+  {
+    "_id": "react_94",
+    "usuario_id": "user_199",
+    "publicacion_id": "pub_393",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-17T14:54:27"
+  },
+  {
+    "_id": "react_95",
+    "usuario_id": "user_357",
+    "publicacion_id": "pub_65",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-08T08:59:31"
+  },
+  {
+    "_id": "react_96",
+    "usuario_id": "user_360",
+    "publicacion_id": "pub_219",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-10T13:52:13"
+  },
+  {
+    "_id": "react_97",
+    "usuario_id": "user_60",
+    "publicacion_id": "pub_225",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-07T15:02:05"
+  },
+  {
+    "_id": "react_98",
+    "usuario_id": "user_460",
+    "publicacion_id": "pub_316",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-20T07:31:49"
+  },
+  {
+    "_id": "react_99",
+    "usuario_id": "user_181",
+    "publicacion_id": "pub_100",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-10T02:40:19"
+  },
+  {
+    "_id": "react_100",
+    "usuario_id": "user_224",
+    "publicacion_id": "pub_471",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-22T18:19:35"
+  },
+  {
+    "_id": "react_101",
+    "usuario_id": "user_122",
+    "publicacion_id": "pub_119",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-07T21:29:57"
+  },
+  {
+    "_id": "react_102",
+    "usuario_id": "user_302",
+    "publicacion_id": "pub_6",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-27T03:26:44"
+  },
+  {
+    "_id": "react_103",
+    "usuario_id": "user_212",
+    "publicacion_id": "pub_383",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-26T01:08:36"
+  },
+  {
+    "_id": "react_104",
+    "usuario_id": "user_411",
+    "publicacion_id": "pub_8",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-12T12:42:34"
+  },
+  {
+    "_id": "react_105",
+    "usuario_id": "user_417",
+    "publicacion_id": "pub_30",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-01T04:17:26"
+  },
+  {
+    "_id": "react_106",
+    "usuario_id": "user_30",
+    "publicacion_id": "pub_65",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-22T07:22:29"
+  },
+  {
+    "_id": "react_107",
+    "usuario_id": "user_93",
+    "publicacion_id": "pub_145",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-17T09:09:48"
+  },
+  {
+    "_id": "react_108",
+    "usuario_id": "user_161",
+    "publicacion_id": "pub_180",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-08T16:51:09"
+  },
+  {
+    "_id": "react_109",
+    "usuario_id": "user_150",
+    "publicacion_id": "pub_67",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-26T02:47:02"
+  },
+  {
+    "_id": "react_110",
+    "usuario_id": "user_246",
+    "publicacion_id": "pub_337",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-16T05:18:26"
+  },
+  {
+    "_id": "react_111",
+    "usuario_id": "user_337",
+    "publicacion_id": "pub_40",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-23T11:53:10"
+  },
+  {
+    "_id": "react_112",
+    "usuario_id": "user_129",
+    "publicacion_id": "pub_481",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-25T07:45:05"
+  },
+  {
+    "_id": "react_113",
+    "usuario_id": "user_254",
+    "publicacion_id": "pub_362",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-29T01:33:09"
+  },
+  {
+    "_id": "react_114",
+    "usuario_id": "user_460",
+    "publicacion_id": "pub_469",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-25T06:25:43"
+  },
+  {
+    "_id": "react_115",
+    "usuario_id": "user_228",
+    "publicacion_id": "pub_366",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-11T06:06:02"
+  },
+  {
+    "_id": "react_116",
+    "usuario_id": "user_483",
+    "publicacion_id": "pub_188",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-17T02:00:53"
+  },
+  {
+    "_id": "react_117",
+    "usuario_id": "user_445",
+    "publicacion_id": "pub_335",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-20T18:52:58"
+  },
+  {
+    "_id": "react_118",
+    "usuario_id": "user_270",
+    "publicacion_id": "pub_458",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-02T12:07:29"
+  },
+  {
+    "_id": "react_119",
+    "usuario_id": "user_164",
+    "publicacion_id": "pub_358",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-31T07:51:06"
+  },
+  {
+    "_id": "react_120",
+    "usuario_id": "user_28",
+    "publicacion_id": "pub_178",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-11T22:45:40"
+  },
+  {
+    "_id": "react_121",
+    "usuario_id": "user_362",
+    "publicacion_id": "pub_487",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-06T11:56:13"
+  },
+  {
+    "_id": "react_122",
+    "usuario_id": "user_144",
+    "publicacion_id": "pub_41",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-19T19:31:53"
+  },
+  {
+    "_id": "react_123",
+    "usuario_id": "user_467",
+    "publicacion_id": "pub_71",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-03T11:55:46"
+  },
+  {
+    "_id": "react_124",
+    "usuario_id": "user_157",
+    "publicacion_id": "pub_380",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-20T02:26:05"
+  },
+  {
+    "_id": "react_125",
+    "usuario_id": "user_63",
+    "publicacion_id": "pub_191",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-02T02:52:33"
+  },
+  {
+    "_id": "react_126",
+    "usuario_id": "user_19",
+    "publicacion_id": "pub_121",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-25T18:21:52"
+  },
+  {
+    "_id": "react_127",
+    "usuario_id": "user_333",
+    "publicacion_id": "pub_392",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-22T23:52:49"
+  },
+  {
+    "_id": "react_128",
+    "usuario_id": "user_488",
+    "publicacion_id": "pub_59",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-25T09:20:00"
+  },
+  {
+    "_id": "react_129",
+    "usuario_id": "user_256",
+    "publicacion_id": "pub_429",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-23T12:28:00"
+  },
+  {
+    "_id": "react_130",
+    "usuario_id": "user_139",
+    "publicacion_id": "pub_143",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-21T12:06:21"
+  },
+  {
+    "_id": "react_131",
+    "usuario_id": "user_154",
+    "publicacion_id": "pub_424",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-02T21:51:54"
+  },
+  {
+    "_id": "react_132",
+    "usuario_id": "user_31",
+    "publicacion_id": "pub_143",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-12T09:11:43"
+  },
+  {
+    "_id": "react_133",
+    "usuario_id": "user_254",
+    "publicacion_id": "pub_10",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-29T04:19:22"
+  },
+  {
+    "_id": "react_134",
+    "usuario_id": "user_197",
+    "publicacion_id": "pub_228",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-03T18:03:17"
+  },
+  {
+    "_id": "react_135",
+    "usuario_id": "user_115",
+    "publicacion_id": "pub_106",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-07T14:22:03"
+  },
+  {
+    "_id": "react_136",
+    "usuario_id": "user_95",
+    "publicacion_id": "pub_338",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-22T08:29:17"
+  },
+  {
+    "_id": "react_137",
+    "usuario_id": "user_273",
+    "publicacion_id": "pub_27",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-01T20:30:51"
+  },
+  {
+    "_id": "react_138",
+    "usuario_id": "user_17",
+    "publicacion_id": "pub_278",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-17T18:13:28"
+  },
+  {
+    "_id": "react_139",
+    "usuario_id": "user_480",
+    "publicacion_id": "pub_14",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-04T17:23:53"
+  },
+  {
+    "_id": "react_140",
+    "usuario_id": "user_473",
+    "publicacion_id": "pub_425",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-18T03:12:21"
+  },
+  {
+    "_id": "react_141",
+    "usuario_id": "user_415",
+    "publicacion_id": "pub_386",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-01T14:13:03"
+  },
+  {
+    "_id": "react_142",
+    "usuario_id": "user_388",
+    "publicacion_id": "pub_15",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-03T19:08:44"
+  },
+  {
+    "_id": "react_143",
+    "usuario_id": "user_372",
+    "publicacion_id": "pub_425",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-03T14:47:11"
+  },
+  {
+    "_id": "react_144",
+    "usuario_id": "user_444",
+    "publicacion_id": "pub_219",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-11T20:24:25"
+  },
+  {
+    "_id": "react_145",
+    "usuario_id": "user_414",
+    "publicacion_id": "pub_56",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-15T16:02:33"
+  },
+  {
+    "_id": "react_146",
+    "usuario_id": "user_488",
+    "publicacion_id": "pub_370",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-19T14:25:45"
+  },
+  {
+    "_id": "react_147",
+    "usuario_id": "user_440",
+    "publicacion_id": "pub_481",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-15T07:08:59"
+  },
+  {
+    "_id": "react_148",
+    "usuario_id": "user_218",
+    "publicacion_id": "pub_294",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-27T02:46:13"
+  },
+  {
+    "_id": "react_149",
+    "usuario_id": "user_84",
+    "publicacion_id": "pub_492",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-27T09:14:34"
+  },
+  {
+    "_id": "react_150",
+    "usuario_id": "user_240",
+    "publicacion_id": "pub_382",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-23T23:37:57"
+  },
+  {
+    "_id": "react_151",
+    "usuario_id": "user_68",
+    "publicacion_id": "pub_465",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-23T16:11:36"
+  },
+  {
+    "_id": "react_152",
+    "usuario_id": "user_144",
+    "publicacion_id": "pub_410",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-03T22:06:26"
+  },
+  {
+    "_id": "react_153",
+    "usuario_id": "user_44",
+    "publicacion_id": "pub_128",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-10T12:01:53"
+  },
+  {
+    "_id": "react_154",
+    "usuario_id": "user_173",
+    "publicacion_id": "pub_293",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-01T03:57:16"
+  },
+  {
+    "_id": "react_155",
+    "usuario_id": "user_20",
+    "publicacion_id": "pub_316",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-11T21:05:13"
+  },
+  {
+    "_id": "react_156",
+    "usuario_id": "user_186",
+    "publicacion_id": "pub_138",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-11T04:11:23"
+  },
+  {
+    "_id": "react_157",
+    "usuario_id": "user_401",
+    "publicacion_id": "pub_335",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-05T10:47:38"
+  },
+  {
+    "_id": "react_158",
+    "usuario_id": "user_64",
+    "publicacion_id": "pub_158",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-20T08:06:37"
+  },
+  {
+    "_id": "react_159",
+    "usuario_id": "user_429",
+    "publicacion_id": "pub_136",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-13T06:04:47"
+  },
+  {
+    "_id": "react_160",
+    "usuario_id": "user_228",
+    "publicacion_id": "pub_237",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-24T00:03:41"
+  },
+  {
+    "_id": "react_161",
+    "usuario_id": "user_226",
+    "publicacion_id": "pub_5",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-17T10:46:53"
+  },
+  {
+    "_id": "react_162",
+    "usuario_id": "user_19",
+    "publicacion_id": "pub_495",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-20T14:24:10"
+  },
+  {
+    "_id": "react_163",
+    "usuario_id": "user_246",
+    "publicacion_id": "pub_327",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-03T02:55:31"
+  },
+  {
+    "_id": "react_164",
+    "usuario_id": "user_210",
+    "publicacion_id": "pub_30",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-08T12:25:09"
+  },
+  {
+    "_id": "react_165",
+    "usuario_id": "user_142",
+    "publicacion_id": "pub_460",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-19T21:55:04"
+  },
+  {
+    "_id": "react_166",
+    "usuario_id": "user_489",
+    "publicacion_id": "pub_33",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-20T08:02:07"
+  },
+  {
+    "_id": "react_167",
+    "usuario_id": "user_93",
+    "publicacion_id": "pub_133",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-11T13:12:17"
+  },
+  {
+    "_id": "react_168",
+    "usuario_id": "user_133",
+    "publicacion_id": "pub_445",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-16T01:33:54"
+  },
+  {
+    "_id": "react_169",
+    "usuario_id": "user_66",
+    "publicacion_id": "pub_117",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-18T09:57:48"
+  },
+  {
+    "_id": "react_170",
+    "usuario_id": "user_76",
+    "publicacion_id": "pub_447",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-23T05:09:50"
+  },
+  {
+    "_id": "react_171",
+    "usuario_id": "user_120",
+    "publicacion_id": "pub_59",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-07T17:51:22"
+  },
+  {
+    "_id": "react_172",
+    "usuario_id": "user_95",
+    "publicacion_id": "pub_351",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-30T22:04:17"
+  },
+  {
+    "_id": "react_173",
+    "usuario_id": "user_297",
+    "publicacion_id": "pub_163",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-03T02:11:31"
+  },
+  {
+    "_id": "react_174",
+    "usuario_id": "user_284",
+    "publicacion_id": "pub_368",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-06T14:25:25"
+  },
+  {
+    "_id": "react_175",
+    "usuario_id": "user_32",
+    "publicacion_id": "pub_488",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-06T08:57:41"
+  },
+  {
+    "_id": "react_176",
+    "usuario_id": "user_500",
+    "publicacion_id": "pub_132",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-11T12:23:17"
+  },
+  {
+    "_id": "react_177",
+    "usuario_id": "user_348",
+    "publicacion_id": "pub_433",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-28T14:04:30"
+  },
+  {
+    "_id": "react_178",
+    "usuario_id": "user_277",
+    "publicacion_id": "pub_368",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-22T15:53:14"
+  },
+  {
+    "_id": "react_179",
+    "usuario_id": "user_308",
+    "publicacion_id": "pub_121",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-01T01:18:05"
+  },
+  {
+    "_id": "react_180",
+    "usuario_id": "user_56",
+    "publicacion_id": "pub_40",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-01T19:07:59"
+  },
+  {
+    "_id": "react_181",
+    "usuario_id": "user_58",
+    "publicacion_id": "pub_262",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-17T23:39:59"
+  },
+  {
+    "_id": "react_182",
+    "usuario_id": "user_122",
+    "publicacion_id": "pub_105",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-23T19:49:16"
+  },
+  {
+    "_id": "react_183",
+    "usuario_id": "user_293",
+    "publicacion_id": "pub_191",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-10T08:50:06"
+  },
+  {
+    "_id": "react_184",
+    "usuario_id": "user_37",
+    "publicacion_id": "pub_329",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-10T23:06:21"
+  },
+  {
+    "_id": "react_185",
+    "usuario_id": "user_449",
+    "publicacion_id": "pub_145",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-13T00:06:52"
+  },
+  {
+    "_id": "react_186",
+    "usuario_id": "user_13",
+    "publicacion_id": "pub_168",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-30T20:27:24"
+  },
+  {
+    "_id": "react_187",
+    "usuario_id": "user_172",
+    "publicacion_id": "pub_500",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-17T04:21:26"
+  },
+  {
+    "_id": "react_188",
+    "usuario_id": "user_460",
+    "publicacion_id": "pub_334",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-03T10:50:13"
+  },
+  {
+    "_id": "react_189",
+    "usuario_id": "user_241",
+    "publicacion_id": "pub_483",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-25T20:32:44"
+  },
+  {
+    "_id": "react_190",
+    "usuario_id": "user_319",
+    "publicacion_id": "pub_16",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-18T23:00:05"
+  },
+  {
+    "_id": "react_191",
+    "usuario_id": "user_189",
+    "publicacion_id": "pub_23",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-28T15:12:23"
+  },
+  {
+    "_id": "react_192",
+    "usuario_id": "user_477",
+    "publicacion_id": "pub_77",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-04T04:52:35"
+  },
+  {
+    "_id": "react_193",
+    "usuario_id": "user_55",
+    "publicacion_id": "pub_312",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-08T08:10:16"
+  },
+  {
+    "_id": "react_194",
+    "usuario_id": "user_414",
+    "publicacion_id": "pub_161",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-29T18:50:25"
+  },
+  {
+    "_id": "react_195",
+    "usuario_id": "user_482",
+    "publicacion_id": "pub_111",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-04T04:19:05"
+  },
+  {
+    "_id": "react_196",
+    "usuario_id": "user_426",
+    "publicacion_id": "pub_299",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-27T11:02:18"
+  },
+  {
+    "_id": "react_197",
+    "usuario_id": "user_337",
+    "publicacion_id": "pub_372",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-22T20:11:16"
+  },
+  {
+    "_id": "react_198",
+    "usuario_id": "user_196",
+    "publicacion_id": "pub_391",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-22T06:31:33"
+  },
+  {
+    "_id": "react_199",
+    "usuario_id": "user_490",
+    "publicacion_id": "pub_40",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-14T14:28:41"
+  },
+  {
+    "_id": "react_200",
+    "usuario_id": "user_290",
+    "publicacion_id": "pub_258",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-01T04:30:24"
+  },
+  {
+    "_id": "react_201",
+    "usuario_id": "user_276",
+    "publicacion_id": "pub_376",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-21T21:27:44"
+  },
+  {
+    "_id": "react_202",
+    "usuario_id": "user_434",
+    "publicacion_id": "pub_450",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-08T02:21:44"
+  },
+  {
+    "_id": "react_203",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_242",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-01T00:54:09"
+  },
+  {
+    "_id": "react_204",
+    "usuario_id": "user_163",
+    "publicacion_id": "pub_138",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-31T01:19:31"
+  },
+  {
+    "_id": "react_205",
+    "usuario_id": "user_429",
+    "publicacion_id": "pub_295",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-16T06:17:16"
+  },
+  {
+    "_id": "react_206",
+    "usuario_id": "user_467",
+    "publicacion_id": "pub_125",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-22T05:18:29"
+  },
+  {
+    "_id": "react_207",
+    "usuario_id": "user_125",
+    "publicacion_id": "pub_410",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-12T18:11:39"
+  },
+  {
+    "_id": "react_208",
+    "usuario_id": "user_119",
+    "publicacion_id": "pub_234",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-02T02:03:50"
+  },
+  {
+    "_id": "react_209",
+    "usuario_id": "user_384",
+    "publicacion_id": "pub_498",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-04T23:03:34"
+  },
+  {
+    "_id": "react_210",
+    "usuario_id": "user_355",
+    "publicacion_id": "pub_124",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-12T15:47:55"
+  },
+  {
+    "_id": "react_211",
+    "usuario_id": "user_376",
+    "publicacion_id": "pub_491",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-12T20:03:54"
+  },
+  {
+    "_id": "react_212",
+    "usuario_id": "user_186",
+    "publicacion_id": "pub_41",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-23T12:34:04"
+  },
+  {
+    "_id": "react_213",
+    "usuario_id": "user_287",
+    "publicacion_id": "pub_259",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-05T09:10:00"
+  },
+  {
+    "_id": "react_214",
+    "usuario_id": "user_469",
+    "publicacion_id": "pub_186",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-01T08:28:56"
+  },
+  {
+    "_id": "react_215",
+    "usuario_id": "user_310",
+    "publicacion_id": "pub_118",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-15T05:16:05"
+  },
+  {
+    "_id": "react_216",
+    "usuario_id": "user_403",
+    "publicacion_id": "pub_215",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-26T22:13:09"
+  },
+  {
+    "_id": "react_217",
+    "usuario_id": "user_292",
+    "publicacion_id": "pub_424",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-22T03:20:37"
+  },
+  {
+    "_id": "react_218",
+    "usuario_id": "user_474",
+    "publicacion_id": "pub_276",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-27T05:05:41"
+  },
+  {
+    "_id": "react_219",
+    "usuario_id": "user_398",
+    "publicacion_id": "pub_466",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-29T21:56:58"
+  },
+  {
+    "_id": "react_220",
+    "usuario_id": "user_346",
+    "publicacion_id": "pub_300",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-11T12:33:50"
+  },
+  {
+    "_id": "react_221",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_134",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-05T23:55:19"
+  },
+  {
+    "_id": "react_222",
+    "usuario_id": "user_175",
+    "publicacion_id": "pub_161",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-07T00:35:09"
+  },
+  {
+    "_id": "react_223",
+    "usuario_id": "user_42",
+    "publicacion_id": "pub_210",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-18T20:22:17"
+  },
+  {
+    "_id": "react_224",
+    "usuario_id": "user_259",
+    "publicacion_id": "pub_76",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-08T18:11:53"
+  },
+  {
+    "_id": "react_225",
+    "usuario_id": "user_324",
+    "publicacion_id": "pub_452",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-22T11:34:01"
+  },
+  {
+    "_id": "react_226",
+    "usuario_id": "user_461",
+    "publicacion_id": "pub_93",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-12T03:40:50"
+  },
+  {
+    "_id": "react_227",
+    "usuario_id": "user_8",
+    "publicacion_id": "pub_86",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-18T18:50:37"
+  },
+  {
+    "_id": "react_228",
+    "usuario_id": "user_215",
+    "publicacion_id": "pub_135",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-08T08:38:34"
+  },
+  {
+    "_id": "react_229",
+    "usuario_id": "user_381",
+    "publicacion_id": "pub_52",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-25T03:43:43"
+  },
+  {
+    "_id": "react_230",
+    "usuario_id": "user_446",
+    "publicacion_id": "pub_18",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-25T20:50:49"
+  },
+  {
+    "_id": "react_231",
+    "usuario_id": "user_13",
+    "publicacion_id": "pub_354",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-28T13:49:29"
+  },
+  {
+    "_id": "react_232",
+    "usuario_id": "user_38",
+    "publicacion_id": "pub_68",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-23T06:31:28"
+  },
+  {
+    "_id": "react_233",
+    "usuario_id": "user_463",
+    "publicacion_id": "pub_217",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-18T06:05:41"
+  },
+  {
+    "_id": "react_234",
+    "usuario_id": "user_66",
+    "publicacion_id": "pub_206",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-28T08:06:33"
+  },
+  {
+    "_id": "react_235",
+    "usuario_id": "user_365",
+    "publicacion_id": "pub_151",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-16T00:00:52"
+  },
+  {
+    "_id": "react_236",
+    "usuario_id": "user_173",
+    "publicacion_id": "pub_460",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-17T13:51:08"
+  },
+  {
+    "_id": "react_237",
+    "usuario_id": "user_303",
+    "publicacion_id": "pub_312",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-30T03:30:13"
+  },
+  {
+    "_id": "react_238",
+    "usuario_id": "user_370",
+    "publicacion_id": "pub_24",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-23T15:16:30"
+  },
+  {
+    "_id": "react_239",
+    "usuario_id": "user_379",
+    "publicacion_id": "pub_472",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-05T18:39:55"
+  },
+  {
+    "_id": "react_240",
+    "usuario_id": "user_487",
+    "publicacion_id": "pub_230",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-03T23:59:39"
+  },
+  {
+    "_id": "react_241",
+    "usuario_id": "user_323",
+    "publicacion_id": "pub_231",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-29T20:24:04"
+  },
+  {
+    "_id": "react_242",
+    "usuario_id": "user_149",
+    "publicacion_id": "pub_388",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-22T07:09:28"
+  },
+  {
+    "_id": "react_243",
+    "usuario_id": "user_359",
+    "publicacion_id": "pub_69",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-08T08:14:52"
+  },
+  {
+    "_id": "react_244",
+    "usuario_id": "user_371",
+    "publicacion_id": "pub_393",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-20T13:10:24"
+  },
+  {
+    "_id": "react_245",
+    "usuario_id": "user_78",
+    "publicacion_id": "pub_459",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-09T10:58:04"
+  },
+  {
+    "_id": "react_246",
+    "usuario_id": "user_304",
+    "publicacion_id": "pub_304",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-13T19:09:37"
+  },
+  {
+    "_id": "react_247",
+    "usuario_id": "user_346",
+    "publicacion_id": "pub_333",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-03T14:32:48"
+  },
+  {
+    "_id": "react_248",
+    "usuario_id": "user_195",
+    "publicacion_id": "pub_165",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-10T05:27:09"
+  },
+  {
+    "_id": "react_249",
+    "usuario_id": "user_91",
+    "publicacion_id": "pub_261",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-15T14:47:09"
+  },
+  {
+    "_id": "react_250",
+    "usuario_id": "user_484",
+    "publicacion_id": "pub_396",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-22T16:51:12"
+  },
+  {
+    "_id": "react_251",
+    "usuario_id": "user_119",
+    "publicacion_id": "pub_153",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-24T08:35:06"
+  },
+  {
+    "_id": "react_252",
+    "usuario_id": "user_175",
+    "publicacion_id": "pub_25",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-27T10:17:52"
+  },
+  {
+    "_id": "react_253",
+    "usuario_id": "user_147",
+    "publicacion_id": "pub_166",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-10T13:04:33"
+  },
+  {
+    "_id": "react_254",
+    "usuario_id": "user_164",
+    "publicacion_id": "pub_388",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-09T17:46:54"
+  },
+  {
+    "_id": "react_255",
+    "usuario_id": "user_489",
+    "publicacion_id": "pub_74",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-28T05:23:08"
+  },
+  {
+    "_id": "react_256",
+    "usuario_id": "user_417",
+    "publicacion_id": "pub_484",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-30T20:16:27"
+  },
+  {
+    "_id": "react_257",
+    "usuario_id": "user_221",
+    "publicacion_id": "pub_266",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-01T06:56:19"
+  },
+  {
+    "_id": "react_258",
+    "usuario_id": "user_295",
+    "publicacion_id": "pub_451",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-02T16:15:23"
+  },
+  {
+    "_id": "react_259",
+    "usuario_id": "user_51",
+    "publicacion_id": "pub_178",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-11T01:24:52"
+  },
+  {
+    "_id": "react_260",
+    "usuario_id": "user_85",
+    "publicacion_id": "pub_61",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-10T21:37:41"
+  },
+  {
+    "_id": "react_261",
+    "usuario_id": "user_141",
+    "publicacion_id": "pub_250",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-23T23:12:17"
+  },
+  {
+    "_id": "react_262",
+    "usuario_id": "user_115",
+    "publicacion_id": "pub_454",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-19T06:45:09"
+  },
+  {
+    "_id": "react_263",
+    "usuario_id": "user_148",
+    "publicacion_id": "pub_481",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-19T08:46:19"
+  },
+  {
+    "_id": "react_264",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_386",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-05T14:52:39"
+  },
+  {
+    "_id": "react_265",
+    "usuario_id": "user_474",
+    "publicacion_id": "pub_119",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-03T17:47:20"
+  },
+  {
+    "_id": "react_266",
+    "usuario_id": "user_73",
+    "publicacion_id": "pub_50",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-12T11:47:06"
+  },
+  {
+    "_id": "react_267",
+    "usuario_id": "user_283",
+    "publicacion_id": "pub_430",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-14T20:11:25"
+  },
+  {
+    "_id": "react_268",
+    "usuario_id": "user_15",
+    "publicacion_id": "pub_307",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-05T09:16:55"
+  },
+  {
+    "_id": "react_269",
+    "usuario_id": "user_492",
+    "publicacion_id": "pub_457",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-04T03:12:40"
+  },
+  {
+    "_id": "react_270",
+    "usuario_id": "user_4",
+    "publicacion_id": "pub_251",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-05T11:46:10"
+  },
+  {
+    "_id": "react_271",
+    "usuario_id": "user_190",
+    "publicacion_id": "pub_105",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-18T12:37:44"
+  },
+  {
+    "_id": "react_272",
+    "usuario_id": "user_483",
+    "publicacion_id": "pub_486",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-10T07:01:33"
+  },
+  {
+    "_id": "react_273",
+    "usuario_id": "user_375",
+    "publicacion_id": "pub_228",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-21T11:15:19"
+  },
+  {
+    "_id": "react_274",
+    "usuario_id": "user_426",
+    "publicacion_id": "pub_233",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-23T10:01:38"
+  },
+  {
+    "_id": "react_275",
+    "usuario_id": "user_471",
+    "publicacion_id": "pub_57",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-31T23:17:00"
+  },
+  {
+    "_id": "react_276",
+    "usuario_id": "user_228",
+    "publicacion_id": "pub_456",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-22T11:35:05"
+  },
+  {
+    "_id": "react_277",
+    "usuario_id": "user_253",
+    "publicacion_id": "pub_135",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-21T22:50:20"
+  },
+  {
+    "_id": "react_278",
+    "usuario_id": "user_443",
+    "publicacion_id": "pub_71",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-22T14:53:26"
+  },
+  {
+    "_id": "react_279",
+    "usuario_id": "user_375",
+    "publicacion_id": "pub_343",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-25T20:27:52"
+  },
+  {
+    "_id": "react_280",
+    "usuario_id": "user_496",
+    "publicacion_id": "pub_182",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-24T18:40:39"
+  },
+  {
+    "_id": "react_281",
+    "usuario_id": "user_382",
+    "publicacion_id": "pub_407",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-28T20:07:44"
+  },
+  {
+    "_id": "react_282",
+    "usuario_id": "user_373",
+    "publicacion_id": "pub_39",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-28T17:35:24"
+  },
+  {
+    "_id": "react_283",
+    "usuario_id": "user_81",
+    "publicacion_id": "pub_260",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-02T14:13:55"
+  },
+  {
+    "_id": "react_284",
+    "usuario_id": "user_142",
+    "publicacion_id": "pub_233",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-20T07:53:10"
+  },
+  {
+    "_id": "react_285",
+    "usuario_id": "user_362",
+    "publicacion_id": "pub_353",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-21T00:48:04"
+  },
+  {
+    "_id": "react_286",
+    "usuario_id": "user_457",
+    "publicacion_id": "pub_474",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-13T11:10:07"
+  },
+  {
+    "_id": "react_287",
+    "usuario_id": "user_222",
+    "publicacion_id": "pub_52",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-10T16:20:17"
+  },
+  {
+    "_id": "react_288",
+    "usuario_id": "user_98",
+    "publicacion_id": "pub_431",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-05T01:21:28"
+  },
+  {
+    "_id": "react_289",
+    "usuario_id": "user_486",
+    "publicacion_id": "pub_325",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-12T06:51:29"
+  },
+  {
+    "_id": "react_290",
+    "usuario_id": "user_126",
+    "publicacion_id": "pub_71",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-13T08:53:38"
+  },
+  {
+    "_id": "react_291",
+    "usuario_id": "user_447",
+    "publicacion_id": "pub_483",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-31T12:53:47"
+  },
+  {
+    "_id": "react_292",
+    "usuario_id": "user_345",
+    "publicacion_id": "pub_101",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-28T03:44:08"
+  },
+  {
+    "_id": "react_293",
+    "usuario_id": "user_241",
+    "publicacion_id": "pub_78",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-31T07:04:16"
+  },
+  {
+    "_id": "react_294",
+    "usuario_id": "user_417",
+    "publicacion_id": "pub_96",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-03T18:48:07"
+  },
+  {
+    "_id": "react_295",
+    "usuario_id": "user_145",
+    "publicacion_id": "pub_68",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-10T05:23:31"
+  },
+  {
+    "_id": "react_296",
+    "usuario_id": "user_326",
+    "publicacion_id": "pub_449",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-24T14:32:42"
+  },
+  {
+    "_id": "react_297",
+    "usuario_id": "user_487",
+    "publicacion_id": "pub_265",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-18T18:51:08"
+  },
+  {
+    "_id": "react_298",
+    "usuario_id": "user_2",
+    "publicacion_id": "pub_223",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-06T00:22:30"
+  },
+  {
+    "_id": "react_299",
+    "usuario_id": "user_252",
+    "publicacion_id": "pub_286",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-27T18:54:17"
+  },
+  {
+    "_id": "react_300",
+    "usuario_id": "user_364",
+    "publicacion_id": "pub_92",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-06T06:12:02"
+  },
+  {
+    "_id": "react_301",
+    "usuario_id": "user_215",
+    "publicacion_id": "pub_353",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-10T19:03:11"
+  },
+  {
+    "_id": "react_302",
+    "usuario_id": "user_315",
+    "publicacion_id": "pub_195",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-22T14:11:18"
+  },
+  {
+    "_id": "react_303",
+    "usuario_id": "user_327",
+    "publicacion_id": "pub_179",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-27T22:20:46"
+  },
+  {
+    "_id": "react_304",
+    "usuario_id": "user_272",
+    "publicacion_id": "pub_337",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-29T14:48:34"
+  },
+  {
+    "_id": "react_305",
+    "usuario_id": "user_450",
+    "publicacion_id": "pub_154",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-27T18:51:09"
+  },
+  {
+    "_id": "react_306",
+    "usuario_id": "user_449",
+    "publicacion_id": "pub_150",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-19T03:35:57"
+  },
+  {
+    "_id": "react_307",
+    "usuario_id": "user_251",
+    "publicacion_id": "pub_408",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-14T20:20:34"
+  },
+  {
+    "_id": "react_308",
+    "usuario_id": "user_307",
+    "publicacion_id": "pub_183",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-21T11:24:43"
+  },
+  {
+    "_id": "react_309",
+    "usuario_id": "user_152",
+    "publicacion_id": "pub_50",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-24T01:10:01"
+  },
+  {
+    "_id": "react_310",
+    "usuario_id": "user_58",
+    "publicacion_id": "pub_494",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-09T11:48:52"
+  },
+  {
+    "_id": "react_311",
+    "usuario_id": "user_215",
+    "publicacion_id": "pub_497",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-14T05:11:22"
+  },
+  {
+    "_id": "react_312",
+    "usuario_id": "user_167",
+    "publicacion_id": "pub_127",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-04T05:32:01"
+  },
+  {
+    "_id": "react_313",
+    "usuario_id": "user_60",
+    "publicacion_id": "pub_91",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-06T09:31:42"
+  },
+  {
+    "_id": "react_314",
+    "usuario_id": "user_490",
+    "publicacion_id": "pub_164",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-22T08:56:23"
+  },
+  {
+    "_id": "react_315",
+    "usuario_id": "user_178",
+    "publicacion_id": "pub_357",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-04T04:41:19"
+  },
+  {
+    "_id": "react_316",
+    "usuario_id": "user_361",
+    "publicacion_id": "pub_66",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-22T12:34:53"
+  },
+  {
+    "_id": "react_317",
+    "usuario_id": "user_431",
+    "publicacion_id": "pub_413",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-29T12:44:52"
+  },
+  {
+    "_id": "react_318",
+    "usuario_id": "user_308",
+    "publicacion_id": "pub_211",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-22T03:14:10"
+  },
+  {
+    "_id": "react_319",
+    "usuario_id": "user_15",
+    "publicacion_id": "pub_149",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-20T11:39:57"
+  },
+  {
+    "_id": "react_320",
+    "usuario_id": "user_260",
+    "publicacion_id": "pub_111",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-26T12:53:46"
+  },
+  {
+    "_id": "react_321",
+    "usuario_id": "user_32",
+    "publicacion_id": "pub_288",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-29T11:10:33"
+  },
+  {
+    "_id": "react_322",
+    "usuario_id": "user_134",
+    "publicacion_id": "pub_346",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-17T20:55:33"
+  },
+  {
+    "_id": "react_323",
+    "usuario_id": "user_211",
+    "publicacion_id": "pub_201",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-22T06:13:50"
+  },
+  {
+    "_id": "react_324",
+    "usuario_id": "user_218",
+    "publicacion_id": "pub_205",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-08T18:47:27"
+  },
+  {
+    "_id": "react_325",
+    "usuario_id": "user_468",
+    "publicacion_id": "pub_28",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-30T03:57:02"
+  },
+  {
+    "_id": "react_326",
+    "usuario_id": "user_249",
+    "publicacion_id": "pub_373",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-16T14:17:39"
+  },
+  {
+    "_id": "react_327",
+    "usuario_id": "user_174",
+    "publicacion_id": "pub_326",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-07T08:54:16"
+  },
+  {
+    "_id": "react_328",
+    "usuario_id": "user_158",
+    "publicacion_id": "pub_230",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-23T22:42:59"
+  },
+  {
+    "_id": "react_329",
+    "usuario_id": "user_114",
+    "publicacion_id": "pub_294",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-09T19:51:33"
+  },
+  {
+    "_id": "react_330",
+    "usuario_id": "user_275",
+    "publicacion_id": "pub_106",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-07T13:44:26"
+  },
+  {
+    "_id": "react_331",
+    "usuario_id": "user_486",
+    "publicacion_id": "pub_496",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-13T20:09:45"
+  },
+  {
+    "_id": "react_332",
+    "usuario_id": "user_67",
+    "publicacion_id": "pub_310",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-02T22:33:39"
+  },
+  {
+    "_id": "react_333",
+    "usuario_id": "user_487",
+    "publicacion_id": "pub_370",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-03T15:45:40"
+  },
+  {
+    "_id": "react_334",
+    "usuario_id": "user_411",
+    "publicacion_id": "pub_195",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-11T10:56:48"
+  },
+  {
+    "_id": "react_335",
+    "usuario_id": "user_400",
+    "publicacion_id": "pub_361",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-29T07:05:51"
+  },
+  {
+    "_id": "react_336",
+    "usuario_id": "user_468",
+    "publicacion_id": "pub_181",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-30T18:32:07"
+  },
+  {
+    "_id": "react_337",
+    "usuario_id": "user_336",
+    "publicacion_id": "pub_26",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-31T13:32:38"
+  },
+  {
+    "_id": "react_338",
+    "usuario_id": "user_186",
+    "publicacion_id": "pub_275",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-19T17:31:58"
+  },
+  {
+    "_id": "react_339",
+    "usuario_id": "user_81",
+    "publicacion_id": "pub_430",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-14T11:55:54"
+  },
+  {
+    "_id": "react_340",
+    "usuario_id": "user_441",
+    "publicacion_id": "pub_368",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-01T12:46:57"
+  },
+  {
+    "_id": "react_341",
+    "usuario_id": "user_149",
+    "publicacion_id": "pub_411",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-21T20:20:43"
+  },
+  {
+    "_id": "react_342",
+    "usuario_id": "user_467",
+    "publicacion_id": "pub_192",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-13T11:33:13"
+  },
+  {
+    "_id": "react_343",
+    "usuario_id": "user_212",
+    "publicacion_id": "pub_111",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-10T10:01:55"
+  },
+  {
+    "_id": "react_344",
+    "usuario_id": "user_482",
+    "publicacion_id": "pub_7",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-15T03:30:47"
+  },
+  {
+    "_id": "react_345",
+    "usuario_id": "user_433",
+    "publicacion_id": "pub_11",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-22T17:58:01"
+  },
+  {
+    "_id": "react_346",
+    "usuario_id": "user_257",
+    "publicacion_id": "pub_204",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-05T19:56:02"
+  },
+  {
+    "_id": "react_347",
+    "usuario_id": "user_22",
+    "publicacion_id": "pub_81",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-14T23:26:57"
+  },
+  {
+    "_id": "react_348",
+    "usuario_id": "user_155",
+    "publicacion_id": "pub_13",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-23T09:02:55"
+  },
+  {
+    "_id": "react_349",
+    "usuario_id": "user_324",
+    "publicacion_id": "pub_396",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-13T00:42:05"
+  },
+  {
+    "_id": "react_350",
+    "usuario_id": "user_18",
+    "publicacion_id": "pub_140",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-10T09:10:35"
+  },
+  {
+    "_id": "react_351",
+    "usuario_id": "user_417",
+    "publicacion_id": "pub_402",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-30T01:34:25"
+  },
+  {
+    "_id": "react_352",
+    "usuario_id": "user_336",
+    "publicacion_id": "pub_206",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-27T17:22:14"
+  },
+  {
+    "_id": "react_353",
+    "usuario_id": "user_419",
+    "publicacion_id": "pub_380",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-19T04:39:11"
+  },
+  {
+    "_id": "react_354",
+    "usuario_id": "user_442",
+    "publicacion_id": "pub_44",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-08T10:36:37"
+  },
+  {
+    "_id": "react_355",
+    "usuario_id": "user_38",
+    "publicacion_id": "pub_259",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-10T22:59:40"
+  },
+  {
+    "_id": "react_356",
+    "usuario_id": "user_11",
+    "publicacion_id": "pub_8",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-06T06:12:27"
+  },
+  {
+    "_id": "react_357",
+    "usuario_id": "user_49",
+    "publicacion_id": "pub_377",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-15T21:01:55"
+  },
+  {
+    "_id": "react_358",
+    "usuario_id": "user_100",
+    "publicacion_id": "pub_426",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-13T22:29:04"
+  },
+  {
+    "_id": "react_359",
+    "usuario_id": "user_402",
+    "publicacion_id": "pub_166",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-24T05:17:40"
+  },
+  {
+    "_id": "react_360",
+    "usuario_id": "user_263",
+    "publicacion_id": "pub_381",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-09T14:25:01"
+  },
+  {
+    "_id": "react_361",
+    "usuario_id": "user_155",
+    "publicacion_id": "pub_141",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-27T23:42:32"
+  },
+  {
+    "_id": "react_362",
+    "usuario_id": "user_104",
+    "publicacion_id": "pub_52",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-25T15:59:45"
+  },
+  {
+    "_id": "react_363",
+    "usuario_id": "user_497",
+    "publicacion_id": "pub_336",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-04T00:39:44"
+  },
+  {
+    "_id": "react_364",
+    "usuario_id": "user_193",
+    "publicacion_id": "pub_150",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-17T02:11:24"
+  },
+  {
+    "_id": "react_365",
+    "usuario_id": "user_48",
+    "publicacion_id": "pub_114",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-06T10:35:36"
+  },
+  {
+    "_id": "react_366",
+    "usuario_id": "user_288",
+    "publicacion_id": "pub_143",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-10T00:10:49"
+  },
+  {
+    "_id": "react_367",
+    "usuario_id": "user_146",
+    "publicacion_id": "pub_465",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-29T03:43:50"
+  },
+  {
+    "_id": "react_368",
+    "usuario_id": "user_196",
+    "publicacion_id": "pub_9",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-30T19:11:30"
+  },
+  {
+    "_id": "react_369",
+    "usuario_id": "user_373",
+    "publicacion_id": "pub_202",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-06T14:55:29"
+  },
+  {
+    "_id": "react_370",
+    "usuario_id": "user_391",
+    "publicacion_id": "pub_280",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-18T05:04:08"
+  },
+  {
+    "_id": "react_371",
+    "usuario_id": "user_232",
+    "publicacion_id": "pub_115",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-09T19:16:21"
+  },
+  {
+    "_id": "react_372",
+    "usuario_id": "user_204",
+    "publicacion_id": "pub_395",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-05T12:55:09"
+  },
+  {
+    "_id": "react_373",
+    "usuario_id": "user_229",
+    "publicacion_id": "pub_190",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-12T14:13:04"
+  },
+  {
+    "_id": "react_374",
+    "usuario_id": "user_289",
+    "publicacion_id": "pub_56",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-30T15:54:14"
+  },
+  {
+    "_id": "react_375",
+    "usuario_id": "user_171",
+    "publicacion_id": "pub_74",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-16T03:02:06"
+  },
+  {
+    "_id": "react_376",
+    "usuario_id": "user_49",
+    "publicacion_id": "pub_288",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-05T01:08:47"
+  },
+  {
+    "_id": "react_377",
+    "usuario_id": "user_107",
+    "publicacion_id": "pub_443",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-30T13:22:18"
+  },
+  {
+    "_id": "react_378",
+    "usuario_id": "user_304",
+    "publicacion_id": "pub_128",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-10T12:45:13"
+  },
+  {
+    "_id": "react_379",
+    "usuario_id": "user_73",
+    "publicacion_id": "pub_207",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-25T01:57:32"
+  },
+  {
+    "_id": "react_380",
+    "usuario_id": "user_268",
+    "publicacion_id": "pub_371",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-15T23:53:26"
+  },
+  {
+    "_id": "react_381",
+    "usuario_id": "user_31",
+    "publicacion_id": "pub_393",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-28T17:58:07"
+  },
+  {
+    "_id": "react_382",
+    "usuario_id": "user_130",
+    "publicacion_id": "pub_211",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-04T12:02:03"
+  },
+  {
+    "_id": "react_383",
+    "usuario_id": "user_380",
+    "publicacion_id": "pub_173",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-13T08:14:22"
+  },
+  {
+    "_id": "react_384",
+    "usuario_id": "user_19",
+    "publicacion_id": "pub_165",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-06T10:45:14"
+  },
+  {
+    "_id": "react_385",
+    "usuario_id": "user_447",
+    "publicacion_id": "pub_3",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-24T10:50:06"
+  },
+  {
+    "_id": "react_386",
+    "usuario_id": "user_354",
+    "publicacion_id": "pub_108",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-06T09:01:33"
+  },
+  {
+    "_id": "react_387",
+    "usuario_id": "user_280",
+    "publicacion_id": "pub_256",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-05T10:36:05"
+  },
+  {
+    "_id": "react_388",
+    "usuario_id": "user_492",
+    "publicacion_id": "pub_334",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-13T12:09:44"
+  },
+  {
+    "_id": "react_389",
+    "usuario_id": "user_165",
+    "publicacion_id": "pub_237",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-14T18:20:42"
+  },
+  {
+    "_id": "react_390",
+    "usuario_id": "user_264",
+    "publicacion_id": "pub_285",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-19T04:56:30"
+  },
+  {
+    "_id": "react_391",
+    "usuario_id": "user_472",
+    "publicacion_id": "pub_54",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-16T06:33:56"
+  },
+  {
+    "_id": "react_392",
+    "usuario_id": "user_359",
+    "publicacion_id": "pub_40",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-04T03:51:50"
+  },
+  {
+    "_id": "react_393",
+    "usuario_id": "user_66",
+    "publicacion_id": "pub_388",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-25T22:51:39"
+  },
+  {
+    "_id": "react_394",
+    "usuario_id": "user_83",
+    "publicacion_id": "pub_267",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-14T00:53:31"
+  },
+  {
+    "_id": "react_395",
+    "usuario_id": "user_86",
+    "publicacion_id": "pub_102",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-13T17:56:51"
+  },
+  {
+    "_id": "react_396",
+    "usuario_id": "user_446",
+    "publicacion_id": "pub_498",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-07-03T11:57:58"
+  },
+  {
+    "_id": "react_397",
+    "usuario_id": "user_20",
+    "publicacion_id": "pub_454",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-22T10:18:03"
+  },
+  {
+    "_id": "react_398",
+    "usuario_id": "user_254",
+    "publicacion_id": "pub_88",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-06T20:54:58"
+  },
+  {
+    "_id": "react_399",
+    "usuario_id": "user_72",
+    "publicacion_id": "pub_384",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-24T14:33:35"
+  },
+  {
+    "_id": "react_400",
+    "usuario_id": "user_205",
+    "publicacion_id": "pub_5",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-08T00:14:56"
+  },
+  {
+    "_id": "react_401",
+    "usuario_id": "user_61",
+    "publicacion_id": "pub_223",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-06T19:59:53"
+  },
+  {
+    "_id": "react_402",
+    "usuario_id": "user_369",
+    "publicacion_id": "pub_473",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-02-08T19:19:55"
+  },
+  {
+    "_id": "react_403",
+    "usuario_id": "user_268",
+    "publicacion_id": "pub_166",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-22T19:29:04"
+  },
+  {
+    "_id": "react_404",
+    "usuario_id": "user_289",
+    "publicacion_id": "pub_333",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-11T23:38:25"
+  },
+  {
+    "_id": "react_405",
+    "usuario_id": "user_73",
+    "publicacion_id": "pub_149",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-09T06:25:16"
+  },
+  {
+    "_id": "react_406",
+    "usuario_id": "user_412",
+    "publicacion_id": "pub_315",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-04T15:42:36"
+  },
+  {
+    "_id": "react_407",
+    "usuario_id": "user_266",
+    "publicacion_id": "pub_310",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-26T16:32:55"
+  },
+  {
+    "_id": "react_408",
+    "usuario_id": "user_242",
+    "publicacion_id": "pub_237",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-06T23:25:50"
+  },
+  {
+    "_id": "react_409",
+    "usuario_id": "user_480",
+    "publicacion_id": "pub_170",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-21T07:01:28"
+  },
+  {
+    "_id": "react_410",
+    "usuario_id": "user_85",
+    "publicacion_id": "pub_269",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-12T01:12:10"
+  },
+  {
+    "_id": "react_411",
+    "usuario_id": "user_6",
+    "publicacion_id": "pub_163",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-13T10:01:30"
+  },
+  {
+    "_id": "react_412",
+    "usuario_id": "user_92",
+    "publicacion_id": "pub_77",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-06T02:49:19"
+  },
+  {
+    "_id": "react_413",
+    "usuario_id": "user_35",
+    "publicacion_id": "pub_3",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-18T05:34:08"
+  },
+  {
+    "_id": "react_414",
+    "usuario_id": "user_360",
+    "publicacion_id": "pub_97",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-06T22:52:43"
+  },
+  {
+    "_id": "react_415",
+    "usuario_id": "user_356",
+    "publicacion_id": "pub_49",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-19T09:09:13"
+  },
+  {
+    "_id": "react_416",
+    "usuario_id": "user_170",
+    "publicacion_id": "pub_49",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-27T19:54:04"
+  },
+  {
+    "_id": "react_417",
+    "usuario_id": "user_320",
+    "publicacion_id": "pub_240",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-01T00:03:27"
+  },
+  {
+    "_id": "react_418",
+    "usuario_id": "user_35",
+    "publicacion_id": "pub_180",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-20T03:23:11"
+  },
+  {
+    "_id": "react_419",
+    "usuario_id": "user_177",
+    "publicacion_id": "pub_322",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-20T11:10:52"
+  },
+  {
+    "_id": "react_420",
+    "usuario_id": "user_476",
+    "publicacion_id": "pub_99",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-26T14:57:28"
+  },
+  {
+    "_id": "react_421",
+    "usuario_id": "user_146",
+    "publicacion_id": "pub_421",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-01T20:06:37"
+  },
+  {
+    "_id": "react_422",
+    "usuario_id": "user_300",
+    "publicacion_id": "pub_374",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-22T05:10:58"
+  },
+  {
+    "_id": "react_423",
+    "usuario_id": "user_189",
+    "publicacion_id": "pub_320",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-11T17:27:41"
+  },
+  {
+    "_id": "react_424",
+    "usuario_id": "user_479",
+    "publicacion_id": "pub_131",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-14T16:33:25"
+  },
+  {
+    "_id": "react_425",
+    "usuario_id": "user_40",
+    "publicacion_id": "pub_304",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-05T01:40:22"
+  },
+  {
+    "_id": "react_426",
+    "usuario_id": "user_53",
+    "publicacion_id": "pub_375",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-18T22:29:59"
+  },
+  {
+    "_id": "react_427",
+    "usuario_id": "user_144",
+    "publicacion_id": "pub_92",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-21T15:28:08"
+  },
+  {
+    "_id": "react_428",
+    "usuario_id": "user_289",
+    "publicacion_id": "pub_53",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-01T05:07:13"
+  },
+  {
+    "_id": "react_429",
+    "usuario_id": "user_409",
+    "publicacion_id": "pub_268",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-23T16:36:22"
+  },
+  {
+    "_id": "react_430",
+    "usuario_id": "user_170",
+    "publicacion_id": "pub_295",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-12T03:33:58"
+  },
+  {
+    "_id": "react_431",
+    "usuario_id": "user_495",
+    "publicacion_id": "pub_414",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-25T05:47:23"
+  },
+  {
+    "_id": "react_432",
+    "usuario_id": "user_108",
+    "publicacion_id": "pub_87",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-24T17:45:29"
+  },
+  {
+    "_id": "react_433",
+    "usuario_id": "user_402",
+    "publicacion_id": "pub_119",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-02T17:51:22"
+  },
+  {
+    "_id": "react_434",
+    "usuario_id": "user_47",
+    "publicacion_id": "pub_476",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-09T01:38:04"
+  },
+  {
+    "_id": "react_435",
+    "usuario_id": "user_74",
+    "publicacion_id": "pub_85",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-09T14:51:20"
+  },
+  {
+    "_id": "react_436",
+    "usuario_id": "user_448",
+    "publicacion_id": "pub_1",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-19T17:53:12"
+  },
+  {
+    "_id": "react_437",
+    "usuario_id": "user_40",
+    "publicacion_id": "pub_459",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-23T00:29:20"
+  },
+  {
+    "_id": "react_438",
+    "usuario_id": "user_71",
+    "publicacion_id": "pub_262",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-27T16:31:27"
+  },
+  {
+    "_id": "react_439",
+    "usuario_id": "user_218",
+    "publicacion_id": "pub_341",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-03-12T12:03:23"
+  },
+  {
+    "_id": "react_440",
+    "usuario_id": "user_168",
+    "publicacion_id": "pub_155",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-03T22:58:14"
+  },
+  {
+    "_id": "react_441",
+    "usuario_id": "user_124",
+    "publicacion_id": "pub_287",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-28T14:37:25"
+  },
+  {
+    "_id": "react_442",
+    "usuario_id": "user_194",
+    "publicacion_id": "pub_397",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-21T12:13:04"
+  },
+  {
+    "_id": "react_443",
+    "usuario_id": "user_362",
+    "publicacion_id": "pub_243",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-23T15:04:41"
+  },
+  {
+    "_id": "react_444",
+    "usuario_id": "user_160",
+    "publicacion_id": "pub_430",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-23T02:17:20"
+  },
+  {
+    "_id": "react_445",
+    "usuario_id": "user_272",
+    "publicacion_id": "pub_41",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-03T23:29:48"
+  },
+  {
+    "_id": "react_446",
+    "usuario_id": "user_490",
+    "publicacion_id": "pub_86",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-28T12:16:21"
+  },
+  {
+    "_id": "react_447",
+    "usuario_id": "user_365",
+    "publicacion_id": "pub_74",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-09T12:36:49"
+  },
+  {
+    "_id": "react_448",
+    "usuario_id": "user_287",
+    "publicacion_id": "pub_227",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-07T10:20:13"
+  },
+  {
+    "_id": "react_449",
+    "usuario_id": "user_356",
+    "publicacion_id": "pub_404",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-31T13:19:13"
+  },
+  {
+    "_id": "react_450",
+    "usuario_id": "user_351",
+    "publicacion_id": "pub_62",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-05T18:22:41"
+  },
+  {
+    "_id": "react_451",
+    "usuario_id": "user_334",
+    "publicacion_id": "pub_179",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-09T01:29:39"
+  },
+  {
+    "_id": "react_452",
+    "usuario_id": "user_13",
+    "publicacion_id": "pub_444",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-25T23:41:48"
+  },
+  {
+    "_id": "react_453",
+    "usuario_id": "user_438",
+    "publicacion_id": "pub_239",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-23T11:17:19"
+  },
+  {
+    "_id": "react_454",
+    "usuario_id": "user_373",
+    "publicacion_id": "pub_218",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-30T18:17:33"
+  },
+  {
+    "_id": "react_455",
+    "usuario_id": "user_316",
+    "publicacion_id": "pub_287",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-06-03T12:44:34"
+  },
+  {
+    "_id": "react_456",
+    "usuario_id": "user_196",
+    "publicacion_id": "pub_192",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-28T14:32:52"
+  },
+  {
+    "_id": "react_457",
+    "usuario_id": "user_478",
+    "publicacion_id": "pub_383",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-23T21:24:25"
+  },
+  {
+    "_id": "react_458",
+    "usuario_id": "user_101",
+    "publicacion_id": "pub_227",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-05-21T04:53:56"
+  },
+  {
+    "_id": "react_459",
+    "usuario_id": "user_270",
+    "publicacion_id": "pub_100",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-27T06:00:08"
+  },
+  {
+    "_id": "react_460",
+    "usuario_id": "user_301",
+    "publicacion_id": "pub_159",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-05T13:27:50"
+  },
+  {
+    "_id": "react_461",
+    "usuario_id": "user_49",
+    "publicacion_id": "pub_467",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-25T13:12:59"
+  },
+  {
+    "_id": "react_462",
+    "usuario_id": "user_469",
+    "publicacion_id": "pub_130",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-24T06:09:10"
+  },
+  {
+    "_id": "react_463",
+    "usuario_id": "user_311",
+    "publicacion_id": "pub_140",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-10T12:45:52"
+  },
+  {
+    "_id": "react_464",
+    "usuario_id": "user_332",
+    "publicacion_id": "pub_141",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-22T23:29:56"
+  },
+  {
+    "_id": "react_465",
+    "usuario_id": "user_204",
+    "publicacion_id": "pub_23",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-06-21T08:36:07"
+  },
+  {
+    "_id": "react_466",
+    "usuario_id": "user_141",
+    "publicacion_id": "pub_321",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-11T10:39:10"
+  },
+  {
+    "_id": "react_467",
+    "usuario_id": "user_498",
+    "publicacion_id": "pub_293",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-11T05:56:46"
+  },
+  {
+    "_id": "react_468",
+    "usuario_id": "user_442",
+    "publicacion_id": "pub_368",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-01-24T00:12:59"
+  },
+  {
+    "_id": "react_469",
+    "usuario_id": "user_312",
+    "publicacion_id": "pub_324",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-05-19T21:10:00"
+  },
+  {
+    "_id": "react_470",
+    "usuario_id": "user_252",
+    "publicacion_id": "pub_89",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-02-21T10:12:59"
+  },
+  {
+    "_id": "react_471",
+    "usuario_id": "user_384",
+    "publicacion_id": "pub_448",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-06T03:22:15"
+  },
+  {
+    "_id": "react_472",
+    "usuario_id": "user_20",
+    "publicacion_id": "pub_190",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-16T16:11:58"
+  },
+  {
+    "_id": "react_473",
+    "usuario_id": "user_314",
+    "publicacion_id": "pub_458",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-03-03T10:23:27"
+  },
+  {
+    "_id": "react_474",
+    "usuario_id": "user_362",
+    "publicacion_id": "pub_377",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-01-29T22:07:37"
+  },
+  {
+    "_id": "react_475",
+    "usuario_id": "user_446",
+    "publicacion_id": "pub_436",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-04T12:00:02"
+  },
+  {
+    "_id": "react_476",
+    "usuario_id": "user_43",
+    "publicacion_id": "pub_215",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-06T10:02:10"
+  },
+  {
+    "_id": "react_477",
+    "usuario_id": "user_29",
+    "publicacion_id": "pub_228",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-01T20:54:16"
+  },
+  {
+    "_id": "react_478",
+    "usuario_id": "user_161",
+    "publicacion_id": "pub_50",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-07T04:15:12"
+  },
+  {
+    "_id": "react_479",
+    "usuario_id": "user_437",
+    "publicacion_id": "pub_100",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-05-06T23:52:09"
+  },
+  {
+    "_id": "react_480",
+    "usuario_id": "user_171",
+    "publicacion_id": "pub_429",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-03-16T13:10:58"
+  },
+  {
+    "_id": "react_481",
+    "usuario_id": "user_460",
+    "publicacion_id": "pub_364",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-04-07T19:03:59"
+  },
+  {
+    "_id": "react_482",
+    "usuario_id": "user_464",
+    "publicacion_id": "pub_301",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-01-20T21:40:09"
+  },
+  {
+    "_id": "react_483",
+    "usuario_id": "user_265",
+    "publicacion_id": "pub_8",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-08T09:17:41"
+  },
+  {
+    "_id": "react_484",
+    "usuario_id": "user_214",
+    "publicacion_id": "pub_429",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-12T05:52:14"
+  },
+  {
+    "_id": "react_485",
+    "usuario_id": "user_34",
+    "publicacion_id": "pub_99",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-05-20T04:39:31"
+  },
+  {
+    "_id": "react_486",
+    "usuario_id": "user_374",
+    "publicacion_id": "pub_137",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-01-31T04:52:52"
+  },
+  {
+    "_id": "react_487",
+    "usuario_id": "user_89",
+    "publicacion_id": "pub_228",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-16T20:09:53"
+  },
+  {
+    "_id": "react_488",
+    "usuario_id": "user_142",
+    "publicacion_id": "pub_312",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-07-12T19:55:54"
+  },
+  {
+    "_id": "react_489",
+    "usuario_id": "user_353",
+    "publicacion_id": "pub_259",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-07-06T12:30:27"
+  },
+  {
+    "_id": "react_490",
+    "usuario_id": "user_89",
+    "publicacion_id": "pub_326",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-14T01:18:15"
+  },
+  {
+    "_id": "react_491",
+    "usuario_id": "user_160",
+    "publicacion_id": "pub_141",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-07-11T11:54:13"
+  },
+  {
+    "_id": "react_492",
+    "usuario_id": "user_61",
+    "publicacion_id": "pub_175",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-04-10T03:39:55"
+  },
+  {
+    "_id": "react_493",
+    "usuario_id": "user_291",
+    "publicacion_id": "pub_429",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-13T14:51:53"
+  },
+  {
+    "_id": "react_494",
+    "usuario_id": "user_290",
+    "publicacion_id": "pub_477",
+    "tipo_reaccion": "Me entristece",
+    "fecha": "2025-06-26T16:31:03"
+  },
+  {
+    "_id": "react_495",
+    "usuario_id": "user_46",
+    "publicacion_id": "pub_60",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-04-08T13:44:04"
+  },
+  {
+    "_id": "react_496",
+    "usuario_id": "user_94",
+    "publicacion_id": "pub_374",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-06-16T06:20:56"
+  },
+  {
+    "_id": "react_497",
+    "usuario_id": "user_96",
+    "publicacion_id": "pub_163",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-03-07T18:37:11"
+  },
+  {
+    "_id": "react_498",
+    "usuario_id": "user_393",
+    "publicacion_id": "pub_87",
+    "tipo_reaccion": "Me gusta",
+    "fecha": "2025-02-13T14:54:43"
+  },
+  {
+    "_id": "react_499",
+    "usuario_id": "user_112",
+    "publicacion_id": "pub_327",
+    "tipo_reaccion": "Me enoja",
+    "fecha": "2025-04-24T19:46:49"
+  },
+  {
+    "_id": "react_500",
+    "usuario_id": "user_236",
+    "publicacion_id": "pub_42",
+    "tipo_reaccion": "Me encanta",
+    "fecha": "2025-02-07T21:44:09"
+  }
+]
